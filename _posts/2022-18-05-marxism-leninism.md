@@ -1,17 +1,10 @@
 ---
-
 title: "Post: The 20th century communist movement"
-
 categories: 
-
     - Blog
-
 tags:
-
     - facts
-
     - random
-
 ---
 
 
