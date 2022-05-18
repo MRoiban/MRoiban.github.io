@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Roiban Marius Alexandru"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.png"
   bio    : "I'm a computer science student at ULB, I love to learn and discover new things constantly!."
   links:
     - label: "Website"
