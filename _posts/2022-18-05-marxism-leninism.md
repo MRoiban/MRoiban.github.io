@@ -4,7 +4,7 @@ title: The 20th century communist movement
 
 categories: 
 
-    - blog
+    - Blog
 
 tags:
 
