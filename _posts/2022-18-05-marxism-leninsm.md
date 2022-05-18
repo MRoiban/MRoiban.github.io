@@ -1,6 +1,6 @@
 ---
 title: "The 20th century communist movement"
-date: 2022-05-18T20:12:30-04:00
+date: 2022-05-18
 categories:
   - blog
 tags:
