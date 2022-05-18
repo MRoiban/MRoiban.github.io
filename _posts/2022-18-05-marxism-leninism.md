@@ -1,6 +1,6 @@
 ---
 
-title: "Random: The 20th century communist movement"
+title: "Post: The 20th century communist movement"
 
 categories: 
 
