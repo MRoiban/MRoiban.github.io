@@ -1,11 +1,13 @@
 ---
-title: "Random: The 20th century communist movement"
-categories: 
-    - Blog
+title: "Welcome to Jekyll!"
+date: 2019-04-18T15:34:30-04:00
+categories:
+  - blog
 tags:
-    - facts
-    - random
+  - Jekyll
+  - update
 ---
+
 Marxism-Leninism is a communist ideology that was the main communist movement of the 20th century. It was developed by Joseph Stalin in the 1920s based on the Marxism and Leninism. In today's age, Marxism-Leninism remains the official ideology of the ruling parties of China, Cuba, Laos and Vietnam.
 
 
