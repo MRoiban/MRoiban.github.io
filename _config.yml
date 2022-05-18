@@ -57,9 +57,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Roiban Marius Alexandru"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I'm a computer science student at ULB, I love to learn and discover new things constantly!."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
