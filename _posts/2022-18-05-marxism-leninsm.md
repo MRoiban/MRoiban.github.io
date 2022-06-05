@@ -2,7 +2,7 @@
 title: "The 20th century communist movement"
 date: 2022-05-18
 categories:
-  - blog
+  - knowledge
 tags:
   - Fact
   - Random
