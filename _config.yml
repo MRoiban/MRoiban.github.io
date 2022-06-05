@@ -86,6 +86,9 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
+# Analytics
+google_analytics: "G-ZVQ3HP488F"
+
 defaults:
   # _posts
   - scope:
