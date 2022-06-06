@@ -1,6 +1,7 @@
 ---
 title: "A framework for succes"
 date: 2022-06-05
+toc: true
 categories:
   - Knowledge
 tags:
