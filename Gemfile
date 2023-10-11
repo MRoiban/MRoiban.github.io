@@ -1,11 +1,19 @@
 source "https://rubygems.org"
-gemspec
+
+gem "github-pages", group: :jekyll_plugins
+
+gem "tzinfo-data"
+gem "wdm", "~> 0.1.0" if Gem.win_platform?
+
+# If you have any plugins, put them here!
 group :jekyll_plugins do
-    gem "jekyll-sitemap"
-    gem "bourbon"
-    gem "jekyll-paginate"
+  gem "jekyll-paginate"
+  gem "jekyll-sitemap"
+  gem "jekyll-gist"
+  gem "jekyll-feed"
+  gem "jemoji"
+  gem 'jekyll-toc'
+  gem "jekyll-include-cache"
+  gem "jekyll-algolia"
+  gem 'jekyll-sitemap'
 end
-gem 'html-proofer'
-gem 'tzinfo'
-gem 'tzinfo-data'
-gem "github-pages"
