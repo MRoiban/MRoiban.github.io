@@ -30,20 +30,20 @@ a, p, h1, h2, h3 {
 }
 
 
-.about {
+.about, .contact {
     inline-size: 800px;
     line-height: 40px;
 }
 
 .header {
-    float: top;
+    
     margin-bottom: 40px;
 }
 
 .logo-img {
     border-radius: 50%;
     width: 50px;
-    height: auto;
+    height: 50px;
 }
 
 .datetime {
@@ -55,7 +55,6 @@ a, p, h1, h2, h3 {
 .site {
     margin-left: 10%;
     margin-right: 10%;
-    
 }
 
 /* .logo-href {
