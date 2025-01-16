@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>My Automated Walzr Blog Feed</title>
+    <link>https://walzr.com/</link>
+    <description>All posts from walzr.com auto-generated into RSS</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 16 Jan 2025 12:53:49 +0000</lastBuildDate>
+    <item>
+      <title>New project</title>
+      <link>https://walzr.com/blog/new-project</link>
+      <description>New project</description>
+      <pubDate>Thu, 16 Jan 2025 13:53:49 +0100</pubDate>
+    </item>
+    <item>
+      <title>Touring Google</title>
+      <link>https://walzr.com/blog/touring-google</link>
+      <description>Touring Google</description>
+      <pubDate>Thu, 16 Jan 2025 13:53:49 +0100</pubDate>
+    </item>
+    <item>
+      <title>Bump</title>
+      <link>https://walzr.com/blog/bump</link>
+      <description>Bump</description>
+      <pubDate>Thu, 16 Jan 2025 13:53:49 +0100</pubDate>
+    </item>
+    <item>
+      <title>WWDC scholarship</title>
+      <link>https://walzr.com/blog/wwdc</link>
+      <description>WWDC scholarship</description>
+      <pubDate>Thu, 16 Jan 2025 13:53:49 +0100</pubDate>
+    </item>
+    <item>
+      <title>Virus</title>
+      <link>https://walzr.com/blog/virus</link>
+      <description>Virus</description>
+      <pubDate>Thu, 16 Jan 2025 13:53:49 +0100</pubDate>
+    </item>
+    <item>
+      <title>Schools Gone</title>
+      <link>https://walzr.com/blog/schools-gone</link>
+      <description>Schools Gone</description>
+      <pubDate>Thu, 16 Jan 2025 13:53:49 +0100</pubDate>
+    </item>
+    <item>
+      <title>This Candidate Does Not Exist</title>
+      <link>https://walzr.com/blog/this-candidate-does-not-exist</link>
+      <description>This Candidate Does Not Exist</description>
+      <pubDate>Thu, 16 Jan 2025 13:53:49 +0100</pubDate>
+    </item>
+    <item>
+      <title>Live streaming my high school graduation</title>
+      <link>https://walzr.com/blog/live-streaming-my-high-school-graduation</link>
+      <description>Live streaming my high school graduation</description>
+      <pubDate>Thu, 16 Jan 2025 13:53:49 +0100</pubDate>
+    </item>
+    <item>
+      <title>The Secret Elevator at Penn Station</title>
+      <link>https://walzr.com/blog/the-secret-elevator-at-penn-station</link>
+      <description>The Secret Elevator at Penn Station</description>
+      <pubDate>Thu, 16 Jan 2025 13:53:49 +0100</pubDate>
+    </item>
+    <item>
+      <title>The bike lane</title>
+      <link>https://walzr.com/blog/the-bike-lane</link>
+      <description>The bike lane</description>
+      <pubDate>Thu, 16 Jan 2025 13:53:49 +0100</pubDate>
+    </item>
+    <item>
+      <title>Music memories</title>
+      <link>https://walzr.com/blog/music-memories</link>
+      <description>Music memories</description>
+      <pubDate>Thu, 16 Jan 2025 13:53:49 +0100</pubDate>
+    </item>
+    <item>
+      <title>Check &amp; Go</title>
+      <link>https://walzr.com/blog/check-go</link>
+      <description>Check &amp; Go</description>
+      <pubDate>Thu, 16 Jan 2025 13:53:49 +0100</pubDate>
+    </item>
+    <item>
+      <title>Groceries</title>
+      <link>https://walzr.com/blog/groceries</link>
+      <description>Groceries</description>
+      <pubDate>Thu, 16 Jan 2025 13:53:49 +0100</pubDate>
+    </item>
+    <item>
+      <title>Following the rules</title>
+      <link>https://walzr.com/blog/following-the-rules</link>
+      <description>Following the rules</description>
+      <pubDate>Thu, 16 Jan 2025 13:53:49 +0100</pubDate>
+    </item>
+    <item>
+      <title>When it's all over</title>
+      <link>https://walzr.com/blog/when-its-all-over</link>
+      <description>When it's all over</description>
+      <pubDate>Thu, 16 Jan 2025 13:53:49 +0100</pubDate>
+    </item>
+    <item>
+      <title>Pictures</title>
+      <link>https://walzr.com/blog/pictures</link>
+      <description>Pictures</description>
+      <pubDate>Thu, 16 Jan 2025 13:53:49 +0100</pubDate>
+    </item>
+    <item>
+      <title>Passing by</title>
+      <link>https://walzr.com/blog/passing-by</link>
+      <description>Passing by</description>
+      <pubDate>Thu, 16 Jan 2025 13:53:49 +0100</pubDate>
+    </item>
+    <item>
+      <title>Random Jobs</title>
+      <link>https://walzr.com/blog/random-jobs</link>
+      <description>Random Jobs</description>
+      <pubDate>Thu, 16 Jan 2025 13:53:49 +0100</pubDate>
+    </item>
+    <item>
+      <title>Perimeter</title>
+      <link>https://walzr.com/blog/perimeter</link>
+      <description>Perimeter</description>
+      <pubDate>Thu, 16 Jan 2025 13:53:49 +0100</pubDate>
+    </item>
+    <item>
+      <title>2021: Year in Review</title>
+      <link>https://walzr.com/blog/2021</link>
+      <description>2021: Year in Review</description>
+      <pubDate>Thu, 16 Jan 2025 13:53:49 +0100</pubDate>
+    </item>
+    <item>
+      <title>2022: Year in Review</title>
+      <link>https://walzr.com/blog/2022</link>
+      <description>2022: Year in Review</description>
+      <pubDate>Thu, 16 Jan 2025 13:53:49 +0100</pubDate>
+    </item>
+    <item>
+      <title>Unclaimed property</title>
+      <link>https://walzr.com/blog/unclaimed-property</link>
+      <description>Unclaimed property</description>
+      <pubDate>Thu, 16 Jan 2025 13:53:49 +0100</pubDate>
+    </item>
+    <item>
+      <title>2023: Year in Review</title>
+      <link>https://walzr.com/blog/2023</link>
+      <description>2023: Year in Review</description>
+      <pubDate>Thu, 16 Jan 2025 13:53:49 +0100</pubDate>
+    </item>
+    <item>
+      <title>What a small world</title>
+      <link>https://walzr.com/blog/small-world</link>
+      <description>What a small world</description>
+      <pubDate>Thu, 16 Jan 2025 13:53:49 +0100</pubDate>
+    </item>
+    <item>
+      <title>2024: Year in Review</title>
+      <link>https://walzr.com/blog/2024</link>
+      <description>2024: Year in Review</description>
+      <pubDate>Thu, 16 Jan 2025 13:53:49 +0100</pubDate>
+    </item>
+  </channel>
+</rss>
