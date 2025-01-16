@@ -7,158 +7,156 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jan 2025 13:33:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 14:05:03 +0000</lastBuildDate>
     <item>
       <title>New project</title>
       <link>https://walzr.com/blog/new-project</link>
-      <description>Routeshuffle, launching early next year, is a new website for generating random running, biking, and walking routes. Unlike competitors, Routeshuffle will feature modern design and essential functionalities like sign-in and exporting to Google Maps. Built using Node.js, Express, Sendgrid, and Stripe on a Chromebook, this project aims to make it easier for users to get outside and exercise. Stay tuned for updates!</description>
-      <pubDate>Thu, 16 Jan 2025 14:34:48 +0100</pubDate>
+      <description>Exciting news! I'm in the process of building Routeshuffle, a user-friendly website for generating random routes for running, biking, and walking. Unlike existing competitors, Routeloop and MapMyRun’s Route Genius, Routeshuffle aims to offer a refreshing, feature-rich experience with easy route exporting and more. I'm developing it using Node.js on a Chromebook, and I’m eager to share my journey. Stay tuned for updates as I work towards launching this tool early next year!</description>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Touring Google</title>
       <link>https://walzr.com/blog/touring-google</link>
-      <description>After winning Mentor Foundation USA's "Living the Example" contest aimed at preventing youth drug usage, I embarked on an exciting trip to Los Angeles. A highlight was touring Google's Venice Beach offices with Gudrun Giddings, CEO of G4C Innovation and board member of Mentor Foundation USA. The tour showcased Google's innovative workspaces, employee perks, and healthy dining options. Next, we visited the YouTube Space in La Playa, learning about its resources for content creators. The day concluded with a delightful meal at The Fat Dog in West Hollywood, making this trip truly memorable.</description>
-      <pubDate>Thu, 16 Jan 2025 14:34:42 +0100</pubDate>
+      <description>Join me on an exciting journey to Los Angeles after winning a video contest with Mentor Foundation USA! Our adventure included an unforgettable tour of Google’s Venice Beach office and the YouTube Space. From vibrant workspaces and free healthy meals to unique perks like on-site laundry and a dog park, I discovered what makes Google a prime workplace. The day concluded at a delightful Swedish restaurant, celebrating success and inspiration. A huge thanks to everyone who made this incredible experience possible!</description>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Bump</title>
       <link>https://walzr.com/blog/bump</link>
-      <description>As a high school runner, indoor track meets in winter present unique challenges, including poor air quality and cramped tracks. The frustration builds as spectators carelessly cross the track mid-race, evoking 'Run Rage,' a fierce determination to win despite anger at the conditions and interruptions. This intensity isn't limited to indoor events; similar frustrations occur in cross country races. These experiences reveal a version of myself that becomes indifferent to everything except finishing the race strong.</description>
-      <pubDate>Thu, 16 Jan 2025 14:34:40 +0100</pubDate>
+      <description>In this reflection on indoor track meets, a high school runner shares the intense emotions experienced during competitive races. Battling poor air quality and distractions from spectators, the runner confronts feelings of anger and determination, dubbing it "Run Rage." A memorable moment arises during a cross-country race when an unwitting spectator’s phone dangles over the fence, leading to an unexpected encounter. This experience highlights the complex nature of racing, revealing how different versions of ourselves emerge in high-pressure situations. Ultimately, it’s a journey of self-discovery through competition and the chaos that surrounds it.</description>
+      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>WWDC scholarship</title>
       <link>https://walzr.com/blog/wwdc</link>
-      <description>In 2019, I attended Apple's WWDC with a scholarship, a highlight of my journey learning Swift. Inspired by previous scholars, I created a playground featuring a location beacon navigating city obstacles, learning new frameworks along the way. The intense preparation period involved sleepless nights, YouTube tutorials, and constant refinements. At WWDC, I connected with inspiring developers, explored cutting-edge technologies, and experienced Apple's electric atmosphere. From meeting tech influencers to visiting top tech companies, it was an unforgettable adventure. I highly encourage computer science students to apply for this transformative opportunity.</description>
-      <pubDate>Thu, 16 Jan 2025 14:34:38 +0100</pubDate>
+      <description>Reflecting on my unforgettable experience at WWDC 2019, I share my journey from a novice in Swift to winning an Apple scholarship. Inspired by the stories of past scholars, I dedicated countless hours to develop a playground project—a traffic simulator that used pathfinding and natural language processing. Through intense research, brainstorming, and community support, I created an interactive demo that showcased my growth. The thrill of receiving the acceptance email made the hard work worth it. I encourage all aspiring developers to apply for this incredible opportunity—it's a life-changing experience!</description>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Virus</title>
       <link>https://walzr.com/blog/virus</link>
-      <description>In this post, a high school senior reflects on the gravity of the COVID-19 pandemic, as highlighted by Chris Cuomo on CNN. With impending travel restrictions, event cancellations, and school closures, the student experiences a profound mix of emotions, realizing the unprecedented changes in everyday life. Emphasizing the collective fight against the virus, the student acknowledges the importance of timely action to prevent a situation like Italy's, while also dealing with the uncertainty of their final school days being cut short.</description>
-      <pubDate>Thu, 16 Jan 2025 14:34:36 +0100</pubDate>
+      <description>In March 2020, as the world grappled with the emergence of the coronavirus, Chris Cuomo delivered a stark message about the inevitable changes to our daily lives. With schools and sports facing cancellations and travel restrictions looming, he urged listeners to come together and act responsibly. As a high school senior, the uncertainty stirred emotions of anger and fear, highlighting the profound impact of the virus on personal freedoms and social structures. This moment marked a turning point, emphasizing the need for unity and proactive measures to combat the pandemic.</description>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Schools Gone</title>
       <link>https://walzr.com/blog/schools-gone</link>
-      <description>In a reflective blog post dated March 16, 2020, a high school student from New York shares their experiences as their school shuts down for a month due to the coronavirus pandemic. They reminisce about friends, track practice, and uncertainties ahead, describing the new reality of "school from home" with their sister and the emotional impact of such abrupt changes.</description>
-      <pubDate>Thu, 16 Jan 2025 14:34:34 +0100</pubDate>
+      <description>In the wake of COVID-19, school has shifted to home for the next month, bringing unexpected challenges and isolation. As I adapt to remote learning, I find comfort in sharing a workspace with my sister while reminiscing about the memories made during my high school years. A solo run to the track becomes a moment of reflection, highlighting the significance of the experiences I once took for granted. Though I hold onto hope for normalcy, the future feels uncertain, and the transition serves as a poignant reminder of what we've lost.</description>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>This Candidate Does Not Exist</title>
       <link>https://walzr.com/blog/this-candidate-does-not-exist</link>
-      <description>In April 2020, a high school student tested election integrity by creating a fake candidate, "Andrew Walz," who was verified by Twitter and listed on Ballotpedia. Using AI-generated images and minimal effort, the hoax highlighted vulnerabilities in candidate verification processes. The fake candidate was eventually discovered, leading to changes in verification policies by Ballotpedia and prompting discussions about online impersonation and election security. This real-world experiment underscores the importance of transparency and robust checks in maintaining public trust in democratic institutions.</description>
-      <pubDate>Thu, 16 Jan 2025 14:34:32 +0100</pubDate>
+      <description>In a thought-provoking experiment, a high school student created a fake congressional candidate, "Andrew Walz," to expose vulnerabilities in election integrity and social media verification. Using AI-generated imagery and minimal effort, the student successfully had Walz verified on Twitter and listed on Ballotpedia, raising concerns about the ease of impersonation in political campaigns. After reaching out to the media, the incident sparked discussions about transparency and accountability, prompting both Twitter and Ballotpedia to implement new verification measures. This experience highlighted the importance of vigilance in safeguarding democracy against misinformation.</description>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Live streaming my high school graduation</title>
       <link>https://walzr.com/blog/live-streaming-my-high-school-graduation</link>
-      <description>On August 8, 2020, I live-streamed my high school graduation, transforming it into a memorable virtual experience for over 3,000 live viewers. Due to the pandemic, our ceremony was held "drive-thru style," preventing many from attending in person. I used OBS software with an iPhone camera setup, overcame power and internet challenges, and implemented creative touches like student overlays. Despite technical hurdles, I managed to capture the 5.5-hour event live on YouTube, inspiring me to offer graduation live-streaming services to other schools next year.</description>
-      <pubDate>Thu, 16 Jan 2025 14:34:30 +0100</pubDate>
+      <description>In August 2020, I took on the challenge of live streaming my high school graduation in a unique "drive-thru" format due to the pandemic. With the support of school administration, I navigated the logistics of streaming using OBS and a T-Mobile hotspot, ensuring family and friends could virtually celebrate the day. From setting up multiple cameras to creating overlays of graduates' photos, my efforts culminated in a memorable 5.5-hour event. Over 3,000 viewers tuned in live, and I plan to leverage this experience to offer live streaming services to other schools in the future.</description>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Secret Elevator at Penn Station</title>
       <link>https://walzr.com/blog/the-secret-elevator-at-penn-station</link>
       <description>(No content available)</description>
-      <pubDate>Thu, 16 Jan 2025 14:34:26 +0100</pubDate>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The bike lane</title>
       <link>https://walzr.com/blog/the-bike-lane</link>
-      <description>After moving to NYC, I’ve taken up biking daily, both for fun and errands. Adapting to city cycling, I noticed many cyclists, particularly delivery bikers, frequently run red lights. I cautiously do the same on occasion, but never rush. Despite careful riding, I’ve had close calls with cars, prompting concern for safety, especially after hearing of other tragic incidents like the recent death of Sarah Pitts. While biking is not without risks, we must stay vigilant and mindful on the road.</description>
-      <pubDate>Thu, 16 Jan 2025 14:34:22 +0100</pubDate>
+      <description>In a reflective post, a new NYC resident shares their biking journey through the city, highlighting both the joys and challenges of city cycling. They recount daily rides for fun and errands, navigating chaotic traffic and the unpredictable behavior of fellow cyclists and drivers. Despite close calls and the inherent dangers, including recent tragic incidents, they emphasize a cautious approach to biking. This personal narrative sheds light on the complexities of cycling safety in urban environments, leaving readers to ponder the risks that come with this vibrant mode of transportation.</description>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Music memories</title>
       <link>https://walzr.com/blog/music-memories</link>
-      <description>Reflecting on how music has acted as a powerful anchor to the past, this post captures the author's experience of revisiting songs during the pandemic. With distinctive memories tied to about half of the 1,000 songs in their Spotify library, each track evokes vivid moments from different points in their life. From walking through a bookstore to driving to school, this narrative highlights music's unique ability to trigger detailed recollections and emotions, providing a nostalgic respite during challenging times.</description>
-      <pubDate>Thu, 16 Jan 2025 14:34:17 +0100</pubDate>
+      <description>Reflecting on music’s power to evoke vivid memories, I discovered how each song in my Spotify library transports me to specific moments in time. From walking through Barnes and Noble with my mom to watching dash-cam videos in high school, these tracks encapsulate emotions tied to unique experiences. As I shuffle through my favorites, I’m reminded of how music serves as a powerful conduit for nostalgia, vividly bringing back past feelings and memories that are otherwise fleeting. Join me on this journey down memory lane through the soundtrack of my life.</description>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Check &amp; Go</title>
       <link>https://walzr.com/blog/check-go</link>
-      <description>After months of dealing with a stress-related foot injury, I ran in Central Park for the first time last night and loved the quiet and skyline. Reflecting on past running mottos like "sit and kick" and "check and go," I analyzed my form and corrected my left foot's inward movement. By the end of the run, my form felt improved—hopefully, a sign of recovery.</description>
-      <pubDate>Thu, 16 Jan 2025 14:34:15 +0100</pubDate>
+      <description>In a reflective post, the author shares their first quiet run around Central Park's reservoir since dealing with a lingering foot injury. They reminisce about past racing mottos like "sit and kick" and "check and go," which help them focus on form. After analyzing their stride, they discover their injured left foot has been compensating, causing misalignment. As they consciously adjust their form during the run, they sense an improvement, signaling a hopeful step towards recovery and a newfound appreciation for evening runs amidst the city’s skyline.</description>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Groceries</title>
       <link>https://walzr.com/blog/groceries</link>
-      <description>After moving out on my own, I've found joy in grocery shopping and the freedom to buy whatever I want. From diverse international foods to indulgent treats, the variety is endless, except at pricier places like Whole Foods. This abundance reminds me of Boris Yeltsin's 1989 visit to Texas' Randall's grocery store, which profoundly impacted his views on communism. The shelves filled with food underscored the stark contrast to Soviet scarcity and played a role in his later reforms. The power of a simple grocery store visit in Texas contributing to the downfall of communism is astonishing.</description>
-      <pubDate>Thu, 16 Jan 2025 14:34:08 +0100</pubDate>
+      <description>In this reflection on grocery shopping, the author embraces the freedom and variety of food available since living independently. A visit to a Texas grocery store in 1989 by Boris Yeltsin highlights the stark contrasts between life in the Soviet Union and the abundance found in America. Yeltsin’s astonishment at the sheer selection of goods fueled his disillusionment with communism, ultimately leading to significant economic reforms in Russia. This exploration of personal experience ties in unexpected historical impact, illustrating how something as simple as a grocery store visit can influence political change.</description>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Following the rules</title>
       <link>https://walzr.com/blog/following-the-rules</link>
-      <description>Navigating the Challenges of Central Park's Running Track
-
-In a reflection on running around Central Park's reservoir, a blogger highlights the challenges of adhering to social distancing and the track's counter-clockwise, one-way rule. While many walkers ignore these guidelines, the post underscores the importance of such measures, especially for minimizing the spread of coronavirus. An anecdote about an elderly man attempting to enforce the rules sparks a discussion on societal attitudes towards rule enforcement. Despite the awkwardness, the author appreciates the effort to maintain order and safety during these times.</description>
-      <pubDate>Thu, 16 Jan 2025 14:34:05 +0100</pubDate>
+      <description>In this reflective post, the author shares their experience running around Central Park's reservoir, highlighting the challenges of navigating a crowded, one-way track amidst walkers. While acknowledging the awkwardness of enforcing social distancing rules, they touch upon the significance of running counter-clockwise, tying it to natural phenomena and unique athletic advantages. An encounter with a determined elderly man insisting on the rules prompts the author to appreciate his insistence, revealing a blend of humor and societal norms regarding rule enforcement in shared spaces.</description>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>When it's all over</title>
       <link>https://walzr.com/blog/when-its-all-over</link>
-      <description>Reflecting on life during and after the coronavirus pandemic, the author contemplates the uncertainty of returning to normalcy. Despite initial hopes that COVID-19 would diminish by summer 2020, the persistent virus has altered their perspective. They draw a parallel to finishing a grueling run, uncertain of the end but looking forward to relief and accomplishment. Adjusting to prolonged social distancing has changed how they view close interactions in pre-pandemic media, highlighting the lasting impact of the pandemic on their mindset and daily life.</description>
-      <pubDate>Thu, 16 Jan 2025 14:33:59 +0100</pubDate>
+      <description>In this reflective post, the author grapples with the ongoing impact of the coronavirus and the uncertainty of what life will look like in the future. As the fall season approaches and pandemic restrictions continue, the writer contemplates the changes in their perspective and daily life. Drawing parallels between their experiences and running, they express hope for the eventual end of the crisis while acknowledging the challenges of adapting to a new normal. The piece captures a blend of nostalgia, introspection, and the desire for a return to familiarity amid ongoing uncertainty.</description>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Pictures</title>
       <link>https://walzr.com/blog/pictures</link>
-      <description>Reflecting on a train journey through scenic upstate New York, the author notes a moment encountering a deer near the Hudson River. Missing the chance to photograph it, they ponder society's compulsion to capture experiences rather than live them, citing Susan Sontag's insights on this behavior. They question how social norms influence the desire to document moments for validation rather than simply enjoying them.</description>
-      <pubDate>Thu, 16 Jan 2025 14:33:57 +0100</pubDate>
+      <description>Reflecting on a scenic Amtrak journey through the Adirondacks, I encountered a deer submerged in the Hudson River. My impulse to capture the moment with my camera made me wonder about the societal pressure to document experiences for validation. Acknowledging the influence of technology and cultural norms, I grappled with the idea of prioritizing the experience over the need for photographic proof. This contemplation echoes Susan Sontag's observations on how people increasingly place cameras between themselves and the beauty around them, often losing the essence of the moment in the pursuit of image.</description>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Passing by</title>
       <link>https://walzr.com/blog/passing-by</link>
-      <description>An athlete recounts the experience of running a 4x400 meter relay at a cold, dark track meet. Though the grueling event is not their specialty, they embrace the challenge amidst the loud cheers at the start and finish line. As they run, isolation sets in, paralleling the journey of life's hardships and triumphs. The momentary silence emphasizes the personal struggle and determination needed to achieve one's goals.</description>
-      <pubDate>Thu, 16 Jan 2025 14:33:55 +0100</pubDate>
+      <description>In the dark chill of a track meet, the chaotic excitement of the 4x400 meter relay unfolds. Having already run their races, distance athletes embrace this grueling final stretch, pushing their limits amidst cheers and camaraderie. As one runner steps to the line, the initial roar fades into an isolating silence of determination, revealing that true effort often goes unnoticed. This race echoes life's journey—where the spotlight shines brightly at the start and finish, but the real struggle happens in the quiet perseverance in between.</description>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Random Jobs</title>
       <link>https://walzr.com/blog/random-jobs</link>
-      <description>Experienced my first week as a Postmates delivery cyclist in NYC! Biking daily, it's not just about earning money—it's an adventure. From high-end restaurants to unique deliveries like spiked ice cream to NBC, the job’s diversity is fascinating. Despite a few beginner mistakes, the positive interactions and generous tips have been rewarding. Exploring delivery logistics has been insightful, and I’m eager to continue taking on random, part-time jobs to gain new perspectives and learn something fun and new.</description>
-      <pubDate>Thu, 16 Jan 2025 14:33:53 +0100</pubDate>
+      <description>Join me on my journey as a Postmates delivery cyclist in NYC! I've embraced the thrill of cycling around the city while making deliveries from unique restaurants to various types of buildings. Each delivery, including my most random one—a drop-off of spiked ice cream at an NBC office—has taught me valuable lessons about logistics and the kindness of strangers. Mistakes happen, but the rewarding experiences keep me motivated. I’m passionate about exploring different part-time jobs to gain insights and perspectives I once dreamed of as a kid.</description>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Perimeter</title>
       <link>https://walzr.com/blog/perimeter</link>
-      <description>Last weekend, I completed a challenging 12-hour, 36-mile walk around Manhattan's perimeter, burning over 5,000 calories in the process. Despite encountering wrong turns, blisters, and an unexpected thunderstorm, the experience offered unique city views and personal insights. Inspired by The Great Saunter annual event, I embarked solo and felt a mix of physical exhaustion and accomplishment. Although not life-changing, the walk reinforced my love for physical challenges. If you're into adventurous feats, consider walking Manhattan’s perimeter – just don’t underestimate its demands!</description>
-      <pubDate>Thu, 16 Jan 2025 14:33:51 +0100</pubDate>
+      <description>Last weekend, I embarked on a 36-mile journey around Manhattan's perimeter, taking nearly 12 hours and clocking over 65,000 steps! From scenic views along the Harlem River to navigating through unexpected detours and thunderstorms, each mile tested my endurance. While it wasn't a transformative experience, the adventure was thrilling and allowed me to appreciate the city from unique angles. Despite the blisters and sore feet, I’m proud to have tackled this challenge and would encourage fellow adventurers to walk the perimeter—just be prepared for the physical toll!</description>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>2021: Year in Review</title>
       <link>https://walzr.com/blog/2021</link>
-      <description>2021 was a vibrant, transformative year for me. I landed an internship at MSCHF using a creative sidewalk newspaper box, participated in multiple races in Central Park and at Icahn Stadium, and upgraded to a road bike. I moved into a co-living house in NYC, which became a pivotal part of my achievements. I explored various jobs, joined my college's D3 cross country team, and enjoyed quality moments with family. Despite minor mishaps like a stolen bike tire and a quarantined New Year's in London, I look forward to the future in NYC.</description>
-      <pubDate>Thu, 16 Jan 2025 14:33:48 +0100</pubDate>
+      <description>Reflecting on a transformative 2021, I secured an internship at MSCHF in a creative way, embraced new adventures in running and biking, and thrived in a vibrant co-living house in NYC. I tackled challenges like wiping out on my bike and built connections that enriched my life. From launching the app Overheard.me with friends to running track and cross country, each experience shaped my year. Despite obstacles like wallet mishaps and COVID, I'm eager for what the next chapter in NYC holds. Grateful for the journey and the people who've made it unforgettable!</description>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>2022: Year in Review</title>
       <link>https://walzr.com/blog/2022</link>
-      <description>In 2022, I journeyed from COVID quarantine in London to a lively hostel in Amsterdam, embracing the tranquility of Edinburgh fields and the efficient German transit in Dresden. Back in New York, I relaunched Routeshuffle, biked 101 miles to Philadelphia, and filmed illegal truck idling for NYC's air quality. I dabbled in tech projects, coded a GameBoy game, and tackled endurance feats, all while fostering community spirit at Edyfi and Hack Lodge. I delved into climate change solutions, endured winter biking to Montauk, and celebrated new beginnings with family in Lisbon. A whirlwind year of travel, innovation, and personal growth.</description>
-      <pubDate>Thu, 16 Jan 2025 14:33:45 +0100</pubDate>
+      <description>Reflecting on an eventful 2022, I navigated challenges and adventures, from testing positive for COVID in London to exploring the stunning landscapes of Scotland and Germany. I immersed myself in diverse cultures, reconnected with my roots in Dresden, and relaunched my fitness website, Routeshuffle. As a web intern at Tendies, I honed my skills while enjoying collaborative living at Hack Lodge. I also tackled physical feats, like running for my college's cross-country team and biking 130 miles to Montauk. Grateful for cherished memories and experiences, I welcomed the New Year in Lisbon with family.</description>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Unclaimed property</title>
       <link>https://walzr.com/blog/unclaimed-property</link>
-      <description>Unclaimed property is a hidden issue where forgotten assets like bank accounts, gift cards, or paychecks are handed to state governments after inactivity. With over $100 billion in unclaimed funds, 1 in 7 Americans are owed money. However, governments seldom inform the public, as they earn interest on these funds. Mehran and I attempted to address this by helping people and businesses claim their money, but faced challenges due to skepticism and logistical difficulties. Despite the potential, the industry demands extensive relationships and legal navigation, leading us to abandon the venture, yet hopeful for future solutions.</description>
-      <pubDate>Thu, 16 Jan 2025 14:33:43 +0100</pubDate>
+      <description>In our exploration of unclaimed property, we delved into the challenge of recovering funds owed to individuals and businesses due to forgotten accounts and inactive assets. With over $100 billion unclaimed, the lack of awareness presents a significant hurdle. While some states allow bounty hunters to help claimants for a fee, our outreach efforts faced skepticism and minimal conversion. The complex and fragmented nature of the industry, combined with limited incentives for governments, makes tackling this issue tough. We ultimately decided to step back, but the potential for innovation in this space remains vast and intriguing.</description>
+      <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>2023: Year in Review</title>
       <link>https://walzr.com/blog/2023</link>
-      <description>From moving to San Francisco on a whim to co-founding a startup, 2023 was a transformative year for me. I experienced the thrill of working in a fast-paced environment, spent valuable time with family, and even pulled off elaborate pranks with friends. Participating in an accelerator program honed my skills and broadened my horizons. As I look back, I recognize 2023 as a year of immense growth, learning, and adventure. Excited for 2024 and all the new questions and opportunities it promises!</description>
-      <pubDate>Thu, 16 Jan 2025 14:33:40 +0100</pubDate>
+      <description>Reflecting on a transformative 2023, I navigated significant life changes, moving to San Francisco and diving into the startup world as a co-founder. Embracing "adulting" and leaving school for the first time, I learned more than ever about my agency and the vast experiences awaiting me. From exciting projects with friends to personal growth through therapy, every moment was filled with learning, laughter, and memorable adventures. As the year wraps up with family travels, I'm eager to explore new ideas and friendships in 2024. Grateful for the journey and looking forward to what’s next!</description>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What a small world</title>
       <link>https://walzr.com/blog/small-world</link>
-      <description>Discovering fascinating connections between friends, I scraped and analyzed my Instagram social graph, revealing a network of over 217,000 relationships. By mapping and visualizing these connections, I explored how friends from various life stages and locations are intertwined. Using SQL, I identified mutual friends across different social circles, uncovering amusing, small-world scenarios. For instance, a friend from a California cycling trip connected to my high school cross country teammate via a summer camp friend—a testament to how interconnected our lives truly are.</description>
-      <pubDate>Thu, 16 Jan 2025 14:33:37 +0100</pubDate>
+      <description>Explore the fascinating connections in our lives through a deep dive into social networks! This post highlights the joy of discovering shared acquaintances by scraping Instagram data to uncover links between friends from different parts of life. With 217,723 relationships visualized, the author reveals surprising overlaps and amusing stories that showcase how interconnected we truly are. Join in on the name game and see just how small the world really is!</description>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>2024: Year in Review</title>
       <link>https://walzr.com/blog/2024</link>
-      <description>2024 was a year of adventures and personal growth. From attempting a 51-mile walk around San Francisco to cycling to Los Angeles, and even organizing a massive scavenger hunt, the year was packed with physical challenges and community events. I also tackled back pain, created passion projects with friends, and enjoyed unique travel experiences in Japan. Highlights included seeing an eclipse in Illinois, participating in a freeze mob, and developing quirky tech projects like the Fast Food Index and Bop Spotter. Ending the year in Spain with family, it’s been a whirlwind of experiences and achievements.</description>
-      <pubDate>Thu, 16 Jan 2025 14:33:35 +0100</pubDate>
+      <description>Reflecting on an eventful 2024, I tackled a 51-mile walk around San Francisco, cycled to LA, and launched a community scavenger hunt that captivated hundreds. I also solo-traveled to Japan, created engaging projects like an ambient navigation app, and managed some personal challenges, including back pain and a viral video experience. Celebrating natural beauty during a solar eclipse and leading fun activities like "freeze mob" events added joy to the year. With my startup thriving and new adventures on the horizon, I'm ready to embrace 2025 with enthusiasm!</description>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
