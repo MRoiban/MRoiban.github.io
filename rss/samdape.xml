@@ -8,30 +8,36 @@
     <generator>python-feedgen</generator>
     <language>en</language>
     <lastBuildDate>Fri, 17 Jan 2025 11:40:14 +0000</lastBuildDate>
-
+    
     <item>
       <title>Tweet 3 from samdape</title>
-      <link>https://x.com/samdape/1</link>
-      <description>The sudden urge to learn how to tie a tie in case it comes up. <a href="https://twitter.com/samdape/status/1879824152221401098">View Tweet</a>.</description>
+      <link>https://twitter.com/samdape/status/1879824152221401098</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;the sudden urge to learn how to tie a tie in case it comes up&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1879824152221401098?ref_src=twsrc%5Etfw"&gt;January 16, 2025&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+      </description>
       <pubDate>Fri, 17 Jan 2025 12:40:14 +0100</pubDate>
-      <guid>https://x.com/samdape/status/1879824152221401098</guid>
+      <guid>https://twitter.com/samdape/status/1879824152221401098</guid>
     </item>
-
+    
     <item>
       <title>Tweet 2 from samdape</title>
-      <link>https://x.com/samdape/3</link>
-      <description>In the last 72 hours, @samdape and I converted a web app made on @v0 to a native iPhone app. Here's how I did it + some prompts to help you do the same. <a href="https://twitter.com/alec_dilanchian/status/1879947328460894693">View Tweet</a>.</description>
+      <link>https://twitter.com/alec_dilanchian/status/1879947328460894693</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;In the last 72 hours, &lt;a href="https://twitter.com/samdape?ref_src=twsrc%5Etfw"&gt;@samdape&lt;/a&gt; and I converted a web app made on &lt;a href="https://twitter.com/v0?ref_src=twsrc%5Etfw"&gt;@v0&lt;/a&gt; to a native iPhone app that you can download rn in the App Store.&lt;br&gt;&lt;br&gt;And, I only wrote 10% of the code lol.&lt;br&gt;&lt;br&gt;Here&amp;#39;s how I did it + some prompts to help you do the same 🧵 &lt;a href="https://t.co/H0EKq0gaXS"&gt;pic.twitter.com/H0EKq0gaXS&lt;/a&gt;&lt;/p&gt;&amp;mdash; alec (@alec_dilanchian) &lt;a href="https://twitter.com/alec_dilanchian/status/1879947328460894693?ref_src=twsrc%5Etfw"&gt;January 16, 2025&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+      </description>
       <pubDate>Fri, 16 Jan 2025 12:40:14 +0100</pubDate>
-      <guid>https://x.com/samdape/status/1879947328460894693</guid>
+      <guid>https://twitter.com/alec_dilanchian/status/1879947328460894693</guid>
     </item>
-
+    
     <item>
       <title>Tweet 1 from samdape</title>
-      <link>https://x.com/samdape/2</link>
-      <description>Life gets better when you make things. See you all in 2025 🌀 <a href="https://twitter.com/samdape/status/1872359630657171550">View Tweet</a>.</description>
+      <link>https://twitter.com/samdape/status/1872359630657171550</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;life gets better when you make things, see you all in 2025 🌀 &lt;a href="https://t.co/iEhQrMnbK2"&gt;pic.twitter.com/iEhQrMnbK2&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1872359630657171550?ref_src=twsrc%5Etfw"&gt;December 26, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+      </description>
       <pubDate>Thu, 26 Dec 2024 12:40:14 +0100</pubDate>
-      <guid>https://x.com/samdape/status/1872359630657171550</guid>
+      <guid>https://twitter.com/samdape/status/1872359630657171550</guid>
     </item>
-
+    
   </channel>
 </rss>
