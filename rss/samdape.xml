@@ -1,25 +1,34 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS Feed for samdape</title><link>https://x.com/samdape</link>
-<description>RSS feed of the latest tweets from samdape.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language>
-<lastBuildDate>Fri, 17 Jan 2025 11:40:14 +0000</lastBuildDate>
-<item>
-<title>Tweet 3 from samdape</title>
-<link>https://x.com/samdape</link>
-<description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;the sudden urge to learn how to tie a tie in case it comes up&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1879824152221401098?ref_src=twsrc%5Etfw"&gt;January 16, 2025&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
-</description>
-<pubDate>Fri, 17 Jan 2025 12:40:14 +0100</pubDate>
-</item>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>RSS Feed for samdape</title>
+    <link>https://x.com/samdape</link>
+    <description>RSS feed of the latest tweets from samdape.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 17 Jan 2025 11:40:14 +0000</lastBuildDate>
+    
+    <item>
+      <title>Tweet 3 from samdape</title>
+      <link>https://x.com/samdape</link>
+      <description>The sudden urge to learn how to tie a tie in case it comes up. <a href="https://twitter.com/samdape/status/1879824152221401098">View Tweet</a>.</description>
+      <pubDate>Fri, 17 Jan 2025 12:40:14 +0100</pubDate>
+    </item>
 
-<item>
-<title>Tweet 2 from samdape</title>
-<link>https://x.com/samdape</link>
-<description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;In the last 72 hours, &lt;a href="https://twitter.com/samdape?ref_src=twsrc%5Etfw"&gt;@samdape&lt;/a&gt; and I converted a web app made on &lt;a href="https://twitter.com/v0?ref_src=twsrc%5Etfw"&gt;@v0&lt;/a&gt; to a native iPhone app that you can download rn in the App Store.&lt;br&gt;&lt;br&gt;And, I only wrote 10% of the code lol.&lt;br&gt;&lt;br&gt;Here&amp;#39;s how I did it + some prompts to help you do the same 🧵 &lt;a href="https://t.co/H0EKq0gaXS"&gt;pic.twitter.com/H0EKq0gaXS&lt;/a&gt;&lt;/p&gt;&amp;mdash; alec (@alec_dilanchian) &lt;a href="https://twitter.com/alec_dilanchian/status/1879947328460894693?ref_src=twsrc%5Etfw"&gt;January 16, 2025&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
-</description><pubDate>Fri, 17 Jan 2025 12:40:14 +0100</pubDate>
-</item>
+    <item>
+      <title>Tweet 2 from samdape</title>
+      <link>https://x.com/samdape</link>
+      <description>In the last 72 hours, @samdape and I converted a web app made on @v0 to a native iPhone app. Here's how I did it + some prompts to help you do the same. <a href="https://twitter.com/alec_dilanchian/status/1879947328460894693">View Tweet</a>.</description>
+      <pubDate>Fri, 17 Jan 2025 12:40:14 +0100</pubDate>
+    </item>
 
-<item><title>Tweet 1 from samdape</title><link>https://x.com/samdape</link><description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;life gets better when you make things, see you all in 2025 🌀 &lt;a href="https://t.co/iEhQrMnbK2"&gt;pic.twitter.com/iEhQrMnbK2&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1872359630657171550?ref_src=twsrc%5Etfw"&gt;December 26, 2024&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+    <item>
+      <title>Tweet 1 from samdape</title>
+      <link>https://x.com/samdape</link>
+      <description>Life gets better when you make things. See you all in 2025 🌀 <a href="https://twitter.com/samdape/status/1872359630657171550">View Tweet</a>.</description>
+      <pubDate>Fri, 17 Jan 2025 12:40:14 +0100</pubDate>
+    </item>
 
-</description><pubDate>Fri, 17 Jan 2025 12:40:14 +0100</pubDate></item></channel></rss>
+  </channel>
+</rss>
