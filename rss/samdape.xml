@@ -1,113 +1,102 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom"
-    xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
-    <channel>
-        <title>RSS Feed for samdape</title>
-        <link>https://x.com/samdape</link>
-        <description>RSS feed of the latest tweets from samdape.</description>
-        <docs>http://www.rssboard.org/rss-specification</docs>
-        <generator>python-feedgen</generator>
-        <language>en</language>
-        <lastBuildDate>Fri, 17 Jan 2025 14:59:39 +0000</lastBuildDate>
-        <item>
-            <title>Daily App Use: Added to Homescreen</title>
-            <link>https://x.com/samdape/status/1876926910095089959</link>
-            <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;Added it to my homescreen &amp;amp; used it every day so far &lt;a href="https://t.co/CgU3dKSzDz"&gt;https://t.co/CgU3dKSzDz&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1876926910095089959?ref_src=twsrc%5Etfw"&gt;January 8, 2025&lt;/a&gt;&lt;/blockquote&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>RSS Feed for samdape</title>
+    <link>https://x.com/samdape</link>
+    <description>RSS feed of the latest tweets from samdape.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 18 Jan 2025 09:45:39 +0000</lastBuildDate>
+    <item>
+      <title>"Exciting Transition: @read_cv Joins @perplexity_ai Team"</title>
+      <link>https://x.com/_andychung/status/1880332676013650006</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;Today I’m excited to share that &lt;a href="https://twitter.com/read_cv?ref_src=twsrc%5Etfw"&gt;@read_cv&lt;/a&gt; is joining the team at &lt;a href="https://twitter.com/perplexity_ai?ref_src=twsrc%5Etfw"&gt;@perplexity_ai&lt;/a&gt; in their mission to make the world&amp;#39;s knowledge more accessible to everyone. This is incredibly bittersweet for us, as the start of this new chapter will mark the end of our time with &lt;a href="https://twitter.com/read_cv?ref_src=twsrc%5Etfw"&gt;@read_cv&lt;/a&gt;.&lt;br&gt;&lt;br&gt;It has… &lt;a href="https://t.co/6CUinOEGsi"&gt;pic.twitter.com/6CUinOEGsi&lt;/a&gt;&lt;/p&gt;&amp;mdash; andy chung (@_andychung) &lt;a href="https://twitter.com/_andychung/status/1880332676013650006?ref_src=twsrc%5Etfw"&gt;January 17, 2025&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
 
-            </description>
-            <guid isPermaLink="true">https://x.com/samdape/status/1876926910095089959</guid>
-            <pubDate>Wed, 08 Jan 2025 09:40:21 +0000</pubDate>
-        </item>
-        <item>
-            <title>"AI: Transforming Tools into Universal Brushes for Creativity"</title>
-            <link>https://x.com/samdape/status/1877326430180200779</link>
-            <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;ai can transform all these rigid tools into a brush for everyone to use&lt;br&gt;&lt;br&gt;tech-nouveau&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1877326430180200779?ref_src=twsrc%5Etfw"&gt;January 9, 2025&lt;/a&gt;&lt;/blockquote&gt;
+</description>
+      <guid isPermaLink="true">https://x.com/_andychung/status/1880332676013650006</guid>
+      <pubDate>Fri, 17 Jan 2025 19:13:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Creating Valuable Work Beyond the Plagiarism Debate"</title>
+      <link>https://x.com/samdape/status/1849483719934886361</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;„The plagiarism is annoying, but I don’t care about that as much as I care about making stuff worth stealing.“&lt;br&gt;&lt;br&gt;- &lt;a href="https://twitter.com/alexwolfco?ref_src=twsrc%5Etfw"&gt;@alexwolfco&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1849483719934886361?ref_src=twsrc%5Etfw"&gt;October 24, 2024&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
 
-            </description>
-            <guid isPermaLink="true">https://x.com/samdape/status/1877326430180200779</guid>
-            <pubDate>Thu, 09 Jan 2025 12:07:54 +0000</pubDate>
-        </item>
-        <item>
-            <title>Look Within: The Key to Problem Solving</title>
-            <link>https://x.com/samdape/status/1877357855537287256</link>
-            <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;trying to fix a problem by looking outward doesn’t work&lt;br&gt;&lt;br&gt;the solution is inside the problem, it’s understanding&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1877357855537287256?ref_src=twsrc%5Etfw"&gt;January 9, 2025&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
-
-            </description>
-            <guid isPermaLink="true">https://x.com/samdape/status/1877357855537287256</guid>
-            <pubDate>Thu, 09 Jan 2025 14:12:47 +0000</pubDate>
-        </item>
-        <item>
-            <title>Redefining the Concept of Prompts in Communication</title>
-            <link>https://x.com/samdape/status/1877820534504751446</link>
-            <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;you don’t call it prompting trying to convey an idea to a person&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1877820534504751446?ref_src=twsrc%5Etfw"&gt;January 10, 2025&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
-
-            </description>
-            <guid isPermaLink="true">https://x.com/samdape/status/1877820534504751446</guid>
-            <pubDate>Fri, 10 Jan 2025 20:51:18 +0000</pubDate>
-        </item>
-        <item>
-            <title>The Impact of Algorithms on Art Exploration</title>
-            <link>https://x.com/samdape/status/1877974837508841844</link>
-            <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;on the internet, we don’t go to museums&lt;br&gt;&lt;br&gt;we let the algorithm push new art into our faces for 24 hours, and then it’s basically gone&lt;br&gt;&lt;br&gt;when was the last time you actively searched for a specific piece of art or artist just to look at the work for a while?&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1877974837508841844?ref_src=twsrc%5Etfw"&gt;January 11, 2025&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
-
-            </description>
-            <guid isPermaLink="true">https://x.com/samdape/status/1877974837508841844</guid>
-            <pubDate>Sat, 11 Jan 2025 07:04:27 +0000</pubDate>
-        </item>
-        <item>
-            <title>"We're Live Now!"</title>
-            <link>https://x.com/samdape/status/1879660532585930871</link>
-            <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;&amp;amp; we&amp;#39;re live &lt;a href="https://t.co/EVDgSNyZer"&gt;https://t.co/EVDgSNyZer&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1879660532585930871?ref_src=twsrc%5Etfw"&gt;January 15, 2025&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
-
-            </description>
-            <guid isPermaLink="true">https://x.com/samdape/status/1879660532585930871</guid>
-            <pubDate>Wed, 15 Jan 2025 22:42:48 +0000</pubDate>
-        </item>
-        <item>
-            <title>"Transforming Site to iOS App: Exciting Updates and Pricing Changes"</title>
-            <link>https://x.com/samdape/status/1879666002407084467</link>
-            <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;one year   &lt;br&gt;&lt;br&gt;super fun couple of days turning my &lt;a href="https://twitter.com/v0?ref_src=twsrc%5Etfw"&gt;@v0&lt;/a&gt; site into a native iOS app w &lt;a href="https://twitter.com/alec_dilanchian?ref_src=twsrc%5Etfw"&gt;@alec_dilanchian&lt;/a&gt;&lt;br&gt;&lt;br&gt;he&amp;#39;ll have a thread about the process later  &lt;br&gt;&lt;br&gt;also turns out my pricing strat was (too) silly, so we changed it to a flat one&lt;br&gt;&lt;br&gt;enjoy 🌻&lt;br&gt;&lt;br&gt;ps. also works on mac &lt;a href="https://t.co/opUstmyetf"&gt;https://t.co/opUstmyetf&lt;/a&gt; &lt;a href="https://t.co/jQau8zEmAV"&gt;pic.twitter.com/jQau8zEmAV&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1879666002407084467?ref_src=twsrc%5Etfw"&gt;January 15, 2025&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
-
-            </description>
-            <guid isPermaLink="true">https://x.com/samdape/status/1879666002407084467</guid>
-            <pubDate>Wed, 15 Jan 2025 23:04:32 +0000</pubDate>
-        </item>
-        <item>
-            <title>"Unexpected Motivation to Master Tie-Tying Skills"</title>
-            <link>https://x.com/samdape/status/1879824152221401098</link>
-            <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;the sudden urge to learn how to tie a tie in case it comes up&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1879824152221401098?ref_src=twsrc%5Etfw"&gt;January 16, 2025&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
-
-            </description>
-            <guid isPermaLink="true">https://x.com/samdape/status/1879824152221401098</guid>
-            <pubDate>Thu, 16 Jan 2025 09:32:57 +0000</pubDate>
-        </item>
-        <item>
-            <title>Web App Transformed to iPhone App in 72 Hours!</title>
-            <link>https://x.com/alec_dilanchian/status/1879947328460894693</link>
-            <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;In the last 72 hours, &lt;a href="https://twitter.com/samdape?ref_src=twsrc%5Etfw"&gt;@samdape&lt;/a&gt; and I converted a web app made on &lt;a href="https://twitter.com/v0?ref_src=twsrc%5Etfw"&gt;@v0&lt;/a&gt; to a native iPhone app that you can download rn in the App Store.&lt;br&gt;&lt;br&gt;And, I only wrote 10% of the code lol.&lt;br&gt;&lt;br&gt;Here&amp;#39;s how I did it + some prompts to help you do the same 🧵 &lt;a href="https://t.co/H0EKq0gaXS"&gt;pic.twitter.com/H0EKq0gaXS&lt;/a&gt;&lt;/p&gt;&amp;mdash; alec (@alec_dilanchian) &lt;a href="https://twitter.com/alec_dilanchian/status/1879947328460894693?ref_src=twsrc%5Etfw"&gt;January 16, 2025&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
-
-            </description>
-            <guid isPermaLink="true">https://x.com/alec_dilanchian/status/1879947328460894693</guid>
-            <pubDate>Thu, 16 Jan 2025 17:42:25 +0000</pubDate>
-        </item>
-        <item>
-            <title>"Creating Brings Joy: See You in 2025!"</title>
-            <link>https://x.com/samdape/status/1872359630657171550</link>
-            <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;life gets better when you make things, see you all in 2025 🌀 &lt;a href="https://t.co/iEhQrMnbK2"&gt;pic.twitter.com/iEhQrMnbK2&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1872359630657171550?ref_src=twsrc%5Etfw"&gt;December 26, 2024&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
-
-            </description>
-            <guid isPermaLink="true">https://x.com/samdape/status/1872359630657171550</guid>
-            <pubDate>Thu, 26 Dec 2024 19:11:37 +0000</pubDate>
-        </item>
-    </channel>
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1849483719934886361</guid>
+      <pubDate>Thu, 24 Oct 2024 16:10:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Creating Brings Joy: See You in 2025!"</title>
+      <link>https://x.com/samdape/status/1872359630657171550</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;life gets better when you make things, see you all in 2025 🌀 &lt;a href="https://t.co/iEhQrMnbK2"&gt;pic.twitter.com/iEhQrMnbK2&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1872359630657171550?ref_src=twsrc%5Etfw"&gt;December 26, 2024&lt;/a&gt;&lt;/blockquote&gt;</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1872359630657171550</guid>
+      <pubDate>Thu, 26 Dec 2024 19:11:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Web App Transformed to iPhone App in 72 Hours!</title>
+      <link>https://x.com/alec_dilanchian/status/1879947328460894693</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;In the last 72 hours, &lt;a href="https://twitter.com/samdape?ref_src=twsrc%5Etfw"&gt;@samdape&lt;/a&gt; and I converted a web app made on &lt;a href="https://twitter.com/v0?ref_src=twsrc%5Etfw"&gt;@v0&lt;/a&gt; to a native iPhone app that you can download rn in the App Store.&lt;br /&gt;&lt;br /&gt;And, I only wrote 10% of the code lol.&lt;br /&gt;&lt;br /&gt;Here's how I did it + some prompts to help you do the same 🧵 &lt;a href="https://t.co/H0EKq0gaXS"&gt;pic.twitter.com/H0EKq0gaXS&lt;/a&gt;&lt;/p&gt;&amp;mdash; alec (@alec_dilanchian) &lt;a href="https://twitter.com/alec_dilanchian/status/1879947328460894693?ref_src=twsrc%5Etfw"&gt;January 16, 2025&lt;/a&gt;&lt;/blockquote&gt;</description>
+      <guid isPermaLink="true">https://x.com/alec_dilanchian/status/1879947328460894693</guid>
+      <pubDate>Thu, 16 Jan 2025 17:42:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Unexpected Motivation to Master Tie-Tying Skills"</title>
+      <link>https://x.com/samdape/status/1879824152221401098</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;the sudden urge to learn how to tie a tie in case it comes up&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1879824152221401098?ref_src=twsrc%5Etfw"&gt;January 16, 2025&lt;/a&gt;&lt;/blockquote&gt;</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1879824152221401098</guid>
+      <pubDate>Thu, 16 Jan 2025 09:32:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Transforming Site to iOS App: Exciting Updates and Pricing Changes"</title>
+      <link>https://x.com/samdape/status/1879666002407084467</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;one year   &lt;br /&gt;&lt;br /&gt;super fun couple of days turning my &lt;a href="https://twitter.com/v0?ref_src=twsrc%5Etfw"&gt;@v0&lt;/a&gt; site into a native iOS app w &lt;a href="https://twitter.com/alec_dilanchian?ref_src=twsrc%5Etfw"&gt;@alec_dilanchian&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;he'll have a thread about the process later  &lt;br /&gt;&lt;br /&gt;also turns out my pricing strat was (too) silly, so we changed it to a flat one&lt;br /&gt;&lt;br /&gt;enjoy 🌻&lt;br /&gt;&lt;br /&gt;ps. also works on mac &lt;a href="https://t.co/opUstmyetf"&gt;https://t.co/opUstmyetf&lt;/a&gt; &lt;a href="https://t.co/jQau8zEmAV"&gt;pic.twitter.com/jQau8zEmAV&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1879666002407084467?ref_src=twsrc%5Etfw"&gt;January 15, 2025&lt;/a&gt;&lt;/blockquote&gt;</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1879666002407084467</guid>
+      <pubDate>Wed, 15 Jan 2025 23:04:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>"We're Live Now!"</title>
+      <link>https://x.com/samdape/status/1879660532585930871</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;&amp;amp; we're live &lt;a href="https://t.co/EVDgSNyZer"&gt;https://t.co/EVDgSNyZer&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1879660532585930871?ref_src=twsrc%5Etfw"&gt;January 15, 2025&lt;/a&gt;&lt;/blockquote&gt;</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1879660532585930871</guid>
+      <pubDate>Wed, 15 Jan 2025 22:42:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Impact of Algorithms on Art Exploration</title>
+      <link>https://x.com/samdape/status/1877974837508841844</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;on the internet, we don’t go to museums&lt;br /&gt;&lt;br /&gt;we let the algorithm push new art into our faces for 24 hours, and then it’s basically gone&lt;br /&gt;&lt;br /&gt;when was the last time you actively searched for a specific piece of art or artist just to look at the work for a while?&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1877974837508841844?ref_src=twsrc%5Etfw"&gt;January 11, 2025&lt;/a&gt;&lt;/blockquote&gt;</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1877974837508841844</guid>
+      <pubDate>Sat, 11 Jan 2025 07:04:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Redefining the Concept of Prompts in Communication</title>
+      <link>https://x.com/samdape/status/1877820534504751446</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;you don’t call it prompting trying to convey an idea to a person&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1877820534504751446?ref_src=twsrc%5Etfw"&gt;January 10, 2025&lt;/a&gt;&lt;/blockquote&gt;</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1877820534504751446</guid>
+      <pubDate>Fri, 10 Jan 2025 20:51:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Look Within: The Key to Problem Solving</title>
+      <link>https://x.com/samdape/status/1877357855537287256</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;trying to fix a problem by looking outward doesn’t work&lt;br /&gt;&lt;br /&gt;the solution is inside the problem, it’s understanding&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1877357855537287256?ref_src=twsrc%5Etfw"&gt;January 9, 2025&lt;/a&gt;&lt;/blockquote&gt;</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1877357855537287256</guid>
+      <pubDate>Thu, 09 Jan 2025 14:12:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>"AI: Transforming Tools into Universal Brushes for Creativity"</title>
+      <link>https://x.com/samdape/status/1877326430180200779</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;ai can transform all these rigid tools into a brush for everyone to use&lt;br /&gt;&lt;br /&gt;tech-nouveau&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1877326430180200779?ref_src=twsrc%5Etfw"&gt;January 9, 2025&lt;/a&gt;&lt;/blockquote&gt;</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1877326430180200779</guid>
+      <pubDate>Thu, 09 Jan 2025 12:07:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Daily App Use: Added to Homescreen</title>
+      <link>https://x.com/samdape/status/1876926910095089959</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;Added it to my homescreen &amp;amp; used it every day so far &lt;a href="https://t.co/CgU3dKSzDz"&gt;https://t.co/CgU3dKSzDz&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1876926910095089959?ref_src=twsrc%5Etfw"&gt;January 8, 2025&lt;/a&gt;&lt;/blockquote&gt;</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1876926910095089959</guid>
+      <pubDate>Wed, 08 Jan 2025 09:40:21 +0000</pubDate>
+    </item>
+  </channel>
 </rss>
