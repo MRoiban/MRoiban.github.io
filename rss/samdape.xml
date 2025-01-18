@@ -1,132 +1,909 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>RSS Feed for samdape</title>
+    <title>Samdape</title>
     <link>https://x.com/samdape</link>
     <description>RSS feed of the latest tweets from samdape.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Jan 2025 10:05:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2025 20:37:49 +0000</lastBuildDate>
     <item>
-      <title>Hesitant to Share Interactive Designs Due to Algorithm Concerns</title>
-      <link>https://x.com/samdape/status/1878371624434405625</link>
-      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;sad that I’m now hesitant to share any interactive design work that has a link attached, the algorithm is just too punishing&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1878371624434405625?ref_src=twsrc%5Etfw"&gt;January 12, 2025&lt;/a&gt;&lt;/blockquote&gt;
+      <title>"Not Ideal: A Candid Snapshot"</title>
+      <link>https://x.com/samdape/status/1842893171006509115</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;that’s not ideal &lt;a href="https://t.co/TlCb0KlCmb"&gt;pic.twitter.com/TlCb0KlCmb&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1842893171006509115?ref_src=twsrc%5Etfw"&gt;October 6, 2024&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
 
 </description>
-      <guid isPermaLink="true">https://x.com/samdape/status/1878371624434405625</guid>
-      <pubDate>Sun, 12 Jan 2025 09:21:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/samdape/status/1842893171006509115</guid>
+      <pubDate>Sun, 06 Oct 2024 11:42:25 +0000</pubDate>
     </item>
     <item>
-      <title>"Dream Workspaces: A WeWork Vision"</title>
-      <link>https://x.com/samdape/status/1878401245381070911</link>
-      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;would work from wework if it looked like this &lt;a href="https://t.co/1Vavbs6JLr"&gt;pic.twitter.com/1Vavbs6JLr&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1878401245381070911?ref_src=twsrc%5Etfw"&gt;January 12, 2025&lt;/a&gt;&lt;/blockquote&gt;
+      <title>Evaluate Your Personality with ChatGPT's Insights</title>
+      <link>https://x.com/samdape/status/1838757372367638828</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;ask ChatGPT to evaluate your personality based on all your chats. Weirdly emotional&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1838757372367638828?ref_src=twsrc%5Etfw"&gt;September 25, 2024&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
 
 </description>
-      <guid isPermaLink="true">https://x.com/samdape/status/1878401245381070911</guid>
-      <pubDate>Sun, 12 Jan 2025 11:18:50 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/samdape/status/1838757372367638828</guid>
+      <pubDate>Wed, 25 Sep 2024 01:48:14 +0000</pubDate>
     </item>
     <item>
-      <title>New iOS Widget App Launching Soon for $1 or $365</title>
-      <link>https://x.com/samdape/status/1878547979906187432</link>
-      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;turning this into an iOS widget app w &lt;a href="https://twitter.com/alec_dilanchian?ref_src=twsrc%5Etfw"&gt;@alec_dilanchian&lt;/a&gt; in the next few days, 1$ per year or 365$ lifetime &lt;a href="https://t.co/kY9wFqz11B"&gt;https://t.co/kY9wFqz11B&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1878547979906187432?ref_src=twsrc%5Etfw"&gt;January 12, 2025&lt;/a&gt;&lt;/blockquote&gt;
+      <title>Creating Quiet Spaces for Exploration and Creativity</title>
+      <link>https://x.com/samdape/status/1840667120407089532</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;sometimes it’s less about the tool &amp;amp; more about creating that quiet room around the tool, which gives permission to wonder, explore, experiment &amp;amp; create, without any distracting incentives&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1840667120407089532?ref_src=twsrc%5Etfw"&gt;September 30, 2024&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
 
 </description>
-      <guid isPermaLink="true">https://x.com/samdape/status/1878547979906187432</guid>
-      <pubDate>Sun, 12 Jan 2025 21:01:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/samdape/status/1840667120407089532</guid>
+      <pubDate>Mon, 30 Sep 2024 08:16:54 +0000</pubDate>
     </item>
     <item>
-      <title>Exciting Update from Sam!</title>
-      <link>https://x.com/samdape/status/1878549215225283007</link>
-      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="zxx" dir="ltr"&gt;&lt;a href="https://t.co/elgWOKf4xp"&gt;https://t.co/elgWOKf4xp&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1878549215225283007?ref_src=twsrc%5Etfw"&gt;January 12, 2025&lt;/a&gt;&lt;/blockquote&gt;
+      <title>"Discover 3D Scanning Innovations Worldwide"</title>
+      <link>https://x.com/samdape/status/1842100388863893916</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;3d scan the world &lt;a href="https://t.co/hzqEcXgZJh"&gt;https://t.co/hzqEcXgZJh&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1842100388863893916?ref_src=twsrc%5Etfw"&gt;October 4, 2024&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
 
 </description>
-      <guid isPermaLink="true">https://x.com/samdape/status/1878549215225283007</guid>
-      <pubDate>Sun, 12 Jan 2025 21:06:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/samdape/status/1842100388863893916</guid>
+      <pubDate>Fri, 04 Oct 2024 07:12:11 +0000</pubDate>
     </item>
     <item>
-      <title>"This Year Is Basically Over"</title>
-      <link>https://x.com/samdape/status/1878503516970336755</link>
-      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;this year is basically over &lt;a href="https://t.co/HRPNrjVaaU"&gt;pic.twitter.com/HRPNrjVaaU&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1878503516970336755?ref_src=twsrc%5Etfw"&gt;January 12, 2025&lt;/a&gt;&lt;/blockquote&gt;
+      <title>"Starsign Lore Meets Personalized AI: A Winning Combination"</title>
+      <link>https://x.com/samdape/status/1838761048704487650</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;Starsign Lore + personalized Ai is a winner &lt;a href="https://t.co/VBmEpQy2ZY"&gt;pic.twitter.com/VBmEpQy2ZY&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1838761048704487650?ref_src=twsrc%5Etfw"&gt;September 25, 2024&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
 
 </description>
-      <guid isPermaLink="true">https://x.com/samdape/status/1878503516970336755</guid>
-      <pubDate>Sun, 12 Jan 2025 18:05:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/samdape/status/1838761048704487650</guid>
+      <pubDate>Wed, 25 Sep 2024 02:02:51 +0000</pubDate>
     </item>
     <item>
-      <title>Daily App Use: Added to Homescreen</title>
-      <link>https://x.com/samdape/status/1876926910095089959</link>
-      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;Added it to my homescreen &amp;amp; used it every day so far &lt;a href="https://t.co/CgU3dKSzDz"&gt;https://t.co/CgU3dKSzDz&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1876926910095089959?ref_src=twsrc%5Etfw"&gt;January 8, 2025&lt;/a&gt;&lt;/blockquote&gt;</description>
-      <guid isPermaLink="true">https://x.com/samdape/status/1876926910095089959</guid>
-      <pubDate>Wed, 08 Jan 2025 09:40:21 +0000</pubDate>
+      <title>"Great Companies: Inverted Cults That Challenge and Empower"</title>
+      <link>https://x.com/samdape/status/1847944753993630171</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;great companies are like inverted cults, hard to join &amp;amp; encouraging to people who want to leave&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1847944753993630171?ref_src=twsrc%5Etfw"&gt;October 20, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1847944753993630171</guid>
+      <pubDate>Sun, 20 Oct 2024 10:15:37 +0000</pubDate>
     </item>
     <item>
-      <title>"AI: Transforming Tools into Universal Brushes for Creativity"</title>
-      <link>https://x.com/samdape/status/1877326430180200779</link>
-      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;ai can transform all these rigid tools into a brush for everyone to use&lt;br /&gt;&lt;br /&gt;tech-nouveau&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1877326430180200779?ref_src=twsrc%5Etfw"&gt;January 9, 2025&lt;/a&gt;&lt;/blockquote&gt;</description>
-      <guid isPermaLink="true">https://x.com/samdape/status/1877326430180200779</guid>
-      <pubDate>Thu, 09 Jan 2025 12:07:54 +0000</pubDate>
+      <title>"Late Night Inspiration Leads to Creative Spark"</title>
+      <link>https://x.com/samdape/status/1846447101779018087</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;had the idea while falling asleep, made it &amp;amp; went back to sleep, can’t really remember how long it took me tbh &lt;a href="https://t.co/BAGZ2SAOKl"&gt;pic.twitter.com/BAGZ2SAOKl&lt;/a&gt; &lt;a href="https://t.co/FLijaQyNTp"&gt;https://t.co/FLijaQyNTp&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1846447101779018087?ref_src=twsrc%5Etfw"&gt;October 16, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1846447101779018087</guid>
+      <pubDate>Wed, 16 Oct 2024 07:04:29 +0000</pubDate>
     </item>
     <item>
-      <title>Look Within: The Key to Problem Solving</title>
-      <link>https://x.com/samdape/status/1877357855537287256</link>
-      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;trying to fix a problem by looking outward doesn’t work&lt;br /&gt;&lt;br /&gt;the solution is inside the problem, it’s understanding&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1877357855537287256?ref_src=twsrc%5Etfw"&gt;January 9, 2025&lt;/a&gt;&lt;/blockquote&gt;</description>
-      <guid isPermaLink="true">https://x.com/samdape/status/1877357855537287256</guid>
-      <pubDate>Thu, 09 Jan 2025 14:12:47 +0000</pubDate>
+      <title>"Brand and Product: One Unified Identity"</title>
+      <link>https://x.com/samdape/status/1846952233574817947</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;brand should be the product, the product should be the brand&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1846952233574817947?ref_src=twsrc%5Etfw"&gt;October 17, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1846952233574817947</guid>
+      <pubDate>Thu, 17 Oct 2024 16:31:41 +0000</pubDate>
     </item>
     <item>
-      <title>Redefining the Concept of Prompts in Communication</title>
-      <link>https://x.com/samdape/status/1877820534504751446</link>
-      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;you don’t call it prompting trying to convey an idea to a person&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1877820534504751446?ref_src=twsrc%5Etfw"&gt;January 10, 2025&lt;/a&gt;&lt;/blockquote&gt;</description>
-      <guid isPermaLink="true">https://x.com/samdape/status/1877820534504751446</guid>
-      <pubDate>Fri, 10 Jan 2025 20:51:18 +0000</pubDate>
+      <title>New Designs Inspired by Alec Dilanchian's Lyrics Coming Soon</title>
+      <link>https://x.com/samdape/status/1848046297846005872</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;lyrics by my man &lt;a href="https://twitter.com/alec_dilanchian?ref_src=twsrc%5Etfw"&gt;@alec_dilanchian&lt;/a&gt; &lt;br&gt;&lt;br&gt;Adding some of these designs next week&lt;a href="https://t.co/gGKHxJ9f2b"&gt;https://t.co/gGKHxJ9f2b&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1848046297846005872?ref_src=twsrc%5Etfw"&gt;October 20, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1848046297846005872</guid>
+      <pubDate>Sun, 20 Oct 2024 16:59:07 +0000</pubDate>
     </item>
     <item>
-      <title>The Impact of Algorithms on Art Exploration</title>
-      <link>https://x.com/samdape/status/1877974837508841844</link>
-      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;on the internet, we don’t go to museums&lt;br /&gt;&lt;br /&gt;we let the algorithm push new art into our faces for 24 hours, and then it’s basically gone&lt;br /&gt;&lt;br /&gt;when was the last time you actively searched for a specific piece of art or artist just to look at the work for a while?&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1877974837508841844?ref_src=twsrc%5Etfw"&gt;January 11, 2025&lt;/a&gt;&lt;/blockquote&gt;</description>
-      <guid isPermaLink="true">https://x.com/samdape/status/1877974837508841844</guid>
-      <pubDate>Sat, 11 Jan 2025 07:04:27 +0000</pubDate>
+      <title>"Choose Your Communication: Writing or Technology?"</title>
+      <link>https://x.com/samdape/status/1848009701197336962</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="und" dir="ltr"&gt;✍️ or 📟 &lt;a href="https://t.co/06fnAtXkZR"&gt;pic.twitter.com/06fnAtXkZR&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1848009701197336962?ref_src=twsrc%5Etfw"&gt;October 20, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1848009701197336962</guid>
+      <pubDate>Sun, 20 Oct 2024 14:33:41 +0000</pubDate>
     </item>
     <item>
-      <title>"We're Live Now!"</title>
-      <link>https://x.com/samdape/status/1879660532585930871</link>
-      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;&amp;amp; we're live &lt;a href="https://t.co/EVDgSNyZer"&gt;https://t.co/EVDgSNyZer&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1879660532585930871?ref_src=twsrc%5Etfw"&gt;January 15, 2025&lt;/a&gt;&lt;/blockquote&gt;</description>
-      <guid isPermaLink="true">https://x.com/samdape/status/1879660532585930871</guid>
-      <pubDate>Wed, 15 Jan 2025 22:42:48 +0000</pubDate>
+      <title>Life-Changing Post Just Before Refreshing Feed</title>
+      <link>https://x.com/samdape/status/1844048236182683779</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;the feeling of seeing a life-altering post right before the feed refreshes&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1844048236182683779?ref_src=twsrc%5Etfw"&gt;October 9, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1844048236182683779</guid>
+      <pubDate>Wed, 09 Oct 2024 16:12:14 +0000</pubDate>
     </item>
     <item>
-      <title>"Transforming Site to iOS App: Exciting Updates and Pricing Changes"</title>
-      <link>https://x.com/samdape/status/1879666002407084467</link>
-      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;one year   &lt;br /&gt;&lt;br /&gt;super fun couple of days turning my &lt;a href="https://twitter.com/v0?ref_src=twsrc%5Etfw"&gt;@v0&lt;/a&gt; site into a native iOS app w &lt;a href="https://twitter.com/alec_dilanchian?ref_src=twsrc%5Etfw"&gt;@alec_dilanchian&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;he'll have a thread about the process later  &lt;br /&gt;&lt;br /&gt;also turns out my pricing strat was (too) silly, so we changed it to a flat one&lt;br /&gt;&lt;br /&gt;enjoy 🌻&lt;br /&gt;&lt;br /&gt;ps. also works on mac &lt;a href="https://t.co/opUstmyetf"&gt;https://t.co/opUstmyetf&lt;/a&gt; &lt;a href="https://t.co/jQau8zEmAV"&gt;pic.twitter.com/jQau8zEmAV&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1879666002407084467?ref_src=twsrc%5Etfw"&gt;January 15, 2025&lt;/a&gt;&lt;/blockquote&gt;</description>
-      <guid isPermaLink="true">https://x.com/samdape/status/1879666002407084467</guid>
-      <pubDate>Wed, 15 Jan 2025 23:04:32 +0000</pubDate>
+      <title>From the Archive: Floral Flourishes</title>
+      <link>https://x.com/samdape/status/1847260882583064806</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;🌸🌷from 🪻the 🌿🌾archive 🌺🌼 &lt;a href="https://t.co/2RRGPutNXn"&gt;pic.twitter.com/2RRGPutNXn&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1847260882583064806?ref_src=twsrc%5Etfw"&gt;October 18, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1847260882583064806</guid>
+      <pubDate>Fri, 18 Oct 2024 12:58:09 +0000</pubDate>
     </item>
     <item>
-      <title>"Unexpected Motivation to Master Tie-Tying Skills"</title>
-      <link>https://x.com/samdape/status/1879824152221401098</link>
-      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;the sudden urge to learn how to tie a tie in case it comes up&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1879824152221401098?ref_src=twsrc%5Etfw"&gt;January 16, 2025&lt;/a&gt;&lt;/blockquote&gt;</description>
-      <guid isPermaLink="true">https://x.com/samdape/status/1879824152221401098</guid>
-      <pubDate>Thu, 16 Jan 2025 09:32:57 +0000</pubDate>
+      <title>Discover Beauty by Noticing and Framing It</title>
+      <link>https://x.com/samdape/status/1845387910914171186</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;beauty is everywhere, you just have to notice &amp;amp; frame it&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1845387910914171186?ref_src=twsrc%5Etfw"&gt;October 13, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1845387910914171186</guid>
+      <pubDate>Sun, 13 Oct 2024 08:55:38 +0000</pubDate>
     </item>
     <item>
-      <title>Web App Transformed to iPhone App in 72 Hours!</title>
-      <link>https://x.com/alec_dilanchian/status/1879947328460894693</link>
-      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;In the last 72 hours, &lt;a href="https://twitter.com/samdape?ref_src=twsrc%5Etfw"&gt;@samdape&lt;/a&gt; and I converted a web app made on &lt;a href="https://twitter.com/v0?ref_src=twsrc%5Etfw"&gt;@v0&lt;/a&gt; to a native iPhone app that you can download rn in the App Store.&lt;br /&gt;&lt;br /&gt;And, I only wrote 10% of the code lol.&lt;br /&gt;&lt;br /&gt;Here's how I did it + some prompts to help you do the same 🧵 &lt;a href="https://t.co/H0EKq0gaXS"&gt;pic.twitter.com/H0EKq0gaXS&lt;/a&gt;&lt;/p&gt;&amp;mdash; alec (@alec_dilanchian) &lt;a href="https://twitter.com/alec_dilanchian/status/1879947328460894693?ref_src=twsrc%5Etfw"&gt;January 16, 2025&lt;/a&gt;&lt;/blockquote&gt;</description>
-      <guid isPermaLink="true">https://x.com/alec_dilanchian/status/1879947328460894693</guid>
-      <pubDate>Thu, 16 Jan 2025 17:42:25 +0000</pubDate>
+      <title>"Reflecting on Tech-Life Balance of the 90s and 2000s"</title>
+      <link>https://x.com/samdape/status/1847172130825273754</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;the mid 90s / early 2000s were the peak of technology-life balance&lt;br&gt;&lt;br&gt;advanced enough to get most of the benefits — primitive enough to not be used 24/7&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1847172130825273754?ref_src=twsrc%5Etfw"&gt;October 18, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1847172130825273754</guid>
+      <pubDate>Fri, 18 Oct 2024 07:05:29 +0000</pubDate>
     </item>
     <item>
-      <title>"Creating Brings Joy: See You in 2025!"</title>
-      <link>https://x.com/samdape/status/1872359630657171550</link>
-      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;life gets better when you make things, see you all in 2025 🌀 &lt;a href="https://t.co/iEhQrMnbK2"&gt;pic.twitter.com/iEhQrMnbK2&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1872359630657171550?ref_src=twsrc%5Etfw"&gt;December 26, 2024&lt;/a&gt;&lt;/blockquote&gt;</description>
-      <guid isPermaLink="true">https://x.com/samdape/status/1872359630657171550</guid>
-      <pubDate>Thu, 26 Dec 2024 19:11:37 +0000</pubDate>
+      <title>Design Inspiration Disclosure from Months of Research</title>
+      <link>https://x.com/samdape/status/1846487776327352513</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;where i got the design from btw. Been looking at that for months before turning it into the thing above  &lt;a href="https://t.co/sD3klgPWip"&gt;https://t.co/sD3klgPWip&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1846487776327352513?ref_src=twsrc%5Etfw"&gt;October 16, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1846487776327352513</guid>
+      <pubDate>Wed, 16 Oct 2024 09:46:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Embrace Versatility: Find Your Unique Style</title>
+      <link>https://x.com/samdape/status/1844321176925110659</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;don&amp;#39;t obsess over having one style, do whatever is right for the feeling you want to evoke &lt;a href="https://t.co/ZqhzQrfhOL"&gt;pic.twitter.com/ZqhzQrfhOL&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1844321176925110659?ref_src=twsrc%5Etfw"&gt;October 10, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1844321176925110659</guid>
+      <pubDate>Thu, 10 Oct 2024 10:16:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Exploring Humanity's Role in Computing"</title>
+      <link>https://x.com/samdape/status/1846230020357828882</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;why should computers be more human&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1846230020357828882?ref_src=twsrc%5Etfw"&gt;October 15, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1846230020357828882</guid>
+      <pubDate>Tue, 15 Oct 2024 16:41:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Capturing the October Mood in a Photo</title>
+      <link>https://x.com/samdape/status/1843998907401142708</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;october mood &lt;a href="https://t.co/vlb28nVX96"&gt;pic.twitter.com/vlb28nVX96&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1843998907401142708?ref_src=twsrc%5Etfw"&gt;October 9, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1843998907401142708</guid>
+      <pubDate>Wed, 09 Oct 2024 12:56:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Appreciation for feedback, created with Figma and Scaniverse</title>
+      <link>https://x.com/samdape/status/1846630458173379026</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;sorry i can&amp;#39;t answer all the comments, but really appreciate the love! (except that one guy who said it&amp;#39;s shit ui)  &lt;br&gt;&lt;br&gt;ps. it&amp;#39;s all made with &lt;a href="https://twitter.com/figma?ref_src=twsrc%5Etfw"&gt;@figma&lt;/a&gt; + &lt;a href="https://twitter.com/Scaniverse?ref_src=twsrc%5Etfw"&gt;@Scaniverse&lt;/a&gt; - no code&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1846630458173379026?ref_src=twsrc%5Etfw"&gt;October 16, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1846630458173379026</guid>
+      <pubDate>Wed, 16 Oct 2024 19:13:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Tech's Simplicity: A Reflection on Social Media's Influence"</title>
+      <link>https://x.com/samdape/status/1850887393265549489</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;crazy how simple the tech is that played us&lt;br&gt;&lt;br&gt;a screen, feedback loops, social validation/fear, some colorful buttons and cheap entertainment was all it took&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1850887393265549489?ref_src=twsrc%5Etfw"&gt;October 28, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1850887393265549489</guid>
+      <pubDate>Mon, 28 Oct 2024 13:08:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Discover the Full Poem by Sam"</title>
+      <link>https://x.com/samdape/status/1850283913370865982</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;the full poem &lt;a href="https://t.co/4xEBK9gEpw"&gt;pic.twitter.com/4xEBK9gEpw&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1850283913370865982?ref_src=twsrc%5Etfw"&gt;October 26, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1850283913370865982</guid>
+      <pubDate>Sat, 26 Oct 2024 21:10:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Personalized One-Image-a-Day Diary Journey</title>
+      <link>https://x.com/samdape/status/1854260044399042644</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;🌵🪐one📷🧃day🗿🍄&lt;br&gt;&lt;br&gt;i’ve been doing a one-image-a-day diary for a while now &amp;amp; really wanted something more enjoyable and personalized&lt;br&gt;&lt;br&gt;something that makes it easy to look back, feels fun, and adds little (time) pressure keep this little habit going &lt;br&gt;&lt;br&gt;built with cursor &amp;amp; xcode &lt;a href="https://t.co/gZCwEcZJGp"&gt;pic.twitter.com/gZCwEcZJGp&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1854260044399042644?ref_src=twsrc%5Etfw"&gt;November 6, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1854260044399042644</guid>
+      <pubDate>Wed, 06 Nov 2024 20:30:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Time to Escape Loneliness, Sam Suggests</title>
+      <link>https://x.com/samdape/status/1854907588212584671</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;If you catch yourself looking out of a window longingly, it’s time to leave&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1854907588212584671?ref_src=twsrc%5Etfw"&gt;November 8, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1854907588212584671</guid>
+      <pubDate>Fri, 08 Nov 2024 15:23:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tweeted on 2024-10-31T16:04:57.000Z</title>
+      <link>https://x.com/samdape/status/1852018933328379996</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;the only video I watched &lt;a href="https://t.co/m1U8DrP4qt"&gt;https://t.co/m1U8DrP4qt&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1852018933328379996?ref_src=twsrc%5Etfw"&gt;October 31, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1852018933328379996</guid>
+      <pubDate>Thu, 31 Oct 2024 16:04:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Value of Doing Nothing</title>
+      <link>https://x.com/samdape/status/1850528091933643132</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;doing nothing is severely underrated&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1850528091933643132?ref_src=twsrc%5Etfw"&gt;October 27, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1850528091933643132</guid>
+      <pubDate>Sun, 27 Oct 2024 13:20:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Idea to TestFlight in Just 10 Hours!</title>
+      <link>https://x.com/samdape/status/1851946793874960700</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;from idea to TestFlight in ~10h, with basically no coding knowledge &lt;br&gt;&lt;br&gt;&amp;lt;3 &lt;a href="https://t.co/CEapwZvZtK"&gt;pic.twitter.com/CEapwZvZtK&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1851946793874960700?ref_src=twsrc%5Etfw"&gt;October 31, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1851946793874960700</guid>
+      <pubDate>Thu, 31 Oct 2024 11:18:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trust Your Intuition in an Uncharted Future</title>
+      <link>https://x.com/samdape/status/1853762130828312614</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;double down on your intuition; the world ahead has no roads&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1853762130828312614?ref_src=twsrc%5Etfw"&gt;November 5, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1853762130828312614</guid>
+      <pubDate>Tue, 05 Nov 2024 11:31:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exciting New Mobile App Announcement!</title>
+      <link>https://x.com/samdape/status/1856401557903819236</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="art" dir="ltr"&gt;📱 ✨ &lt;a href="https://t.co/XsQhmCdMsP"&gt;https://t.co/XsQhmCdMsP&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1856401557903819236?ref_src=twsrc%5Etfw"&gt;November 12, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1856401557903819236</guid>
+      <pubDate>Tue, 12 Nov 2024 18:19:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sunny Day Snapshot by Sam</title>
+      <link>https://x.com/samdape/status/1850199436044976416</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="qme" dir="ltr"&gt;🌞 &lt;a href="https://t.co/aUyAABDSsj"&gt;pic.twitter.com/aUyAABDSsj&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1850199436044976416?ref_src=twsrc%5Etfw"&gt;October 26, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1850199436044976416</guid>
+      <pubDate>Sat, 26 Oct 2024 15:34:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Cursor AI: Magic with Xcode, but UI Needs Simplification"</title>
+      <link>https://x.com/samdape/status/1851587824232939765</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;after 24 hours with cursor ai &amp;amp; xcode: it’s magic&lt;br&gt;&lt;br&gt;but the current code editor UI is still too intimidating for 99% of people who know nothing about code (me)&lt;br&gt;&lt;br&gt;just show me an app preview + chat window&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1851587824232939765?ref_src=twsrc%5Etfw"&gt;October 30, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1851587824232939765</guid>
+      <pubDate>Wed, 30 Oct 2024 11:31:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Embrace Beauty, Don't Force It: A Butterfly Metaphor</title>
+      <link>https://x.com/samdape/status/1854886059420659719</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;people want to notice the butterfly, not have a picture of it jammed in their face&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1854886059420659719?ref_src=twsrc%5Etfw"&gt;November 8, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1854886059420659719</guid>
+      <pubDate>Fri, 08 Nov 2024 13:57:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Code-Free Creation: Idea and Design Are Key"</title>
+      <link>https://x.com/samdape/status/1854275885920034820</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;just to be clear: i didn&amp;#39;t write a single line of code, it was all chat-based&lt;br&gt;&lt;br&gt;everyone can do this (if you have an idea and design) &lt;a href="https://t.co/cqLM8VYU3I"&gt;https://t.co/cqLM8VYU3I&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1854275885920034820?ref_src=twsrc%5Etfw"&gt;November 6, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1854275885920034820</guid>
+      <pubDate>Wed, 06 Nov 2024 21:33:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>"iOS Feels Overwhelming and Complex Despite Extended Use"</title>
+      <link>https://x.com/samdape/status/1853553087903867151</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;the current iOS feels so different to me&lt;br&gt;&lt;br&gt;even after weeks of using it, it still feels more complex and overwhelming, with a higher cognitive load than previous versions&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1853553087903867151?ref_src=twsrc%5Etfw"&gt;November 4, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1853553087903867151</guid>
+      <pubDate>Mon, 04 Nov 2024 21:41:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Finding Beauty in the Defaults"</title>
+      <link>https://x.com/samdape/status/1851223629926732023</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;there is beauty in the defaults&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1851223629926732023?ref_src=twsrc%5Etfw"&gt;October 29, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1851223629926732023</guid>
+      <pubDate>Tue, 29 Oct 2024 11:24:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meaningful Things Require Effort, Not Ease</title>
+      <link>https://x.com/samdape/status/1861003233516216731</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;meaningful things aren’t meant to be easy&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1861003233516216731?ref_src=twsrc%5Etfw"&gt;November 25, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1861003233516216731</guid>
+      <pubDate>Mon, 25 Nov 2024 11:05:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Need for Phone-Free Spaces</title>
+      <link>https://x.com/samdape/status/1860382716455203151</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;strange how there aren’t many phone-free spaces around&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1860382716455203151?ref_src=twsrc%5Etfw"&gt;November 23, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1860382716455203151</guid>
+      <pubDate>Sat, 23 Nov 2024 17:59:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Let Technology Propel Us Forward"</title>
+      <link>https://x.com/samdape/status/1765362471836008957</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;technology should run so we can walk&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1765362471836008957?ref_src=twsrc%5Etfw"&gt;March 6, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1765362471836008957</guid>
+      <pubDate>Wed, 06 Mar 2024 13:03:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Custom File Naming Solution Shared on Twitter</title>
+      <link>https://x.com/samdape/status/1860106161175036380</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;add your own file-name (rough but it should work):&lt;a href="https://t.co/Zb6HCvNf4X"&gt;https://t.co/Zb6HCvNf4X&lt;/a&gt;&lt;br&gt;&lt;br&gt;(thanks &lt;a href="https://twitter.com/v0?ref_src=twsrc%5Etfw"&gt;@v0&lt;/a&gt; / &lt;a href="https://twitter.com/rauchg?ref_src=twsrc%5Etfw"&gt;@rauchg&lt;/a&gt; for helping out)&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1860106161175036380?ref_src=twsrc%5Etfw"&gt;November 22, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1860106161175036380</guid>
+      <pubDate>Fri, 22 Nov 2024 23:40:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Are AI Products Overcomplicated with Too Many Buttons?"</title>
+      <link>https://x.com/samdape/status/1861383216331997521</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;how do ai-products have so many buttons, aren’t they supposed to be intelligent&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1861383216331997521?ref_src=twsrc%5Etfw"&gt;November 26, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1861383216331997521</guid>
+      <pubDate>Tue, 26 Nov 2024 12:15:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Features Don't Matter, Says Sam"</title>
+      <link>https://x.com/samdape/status/1858860265581719710</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;features won&amp;#39;t matter&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1858860265581719710?ref_src=twsrc%5Etfw"&gt;November 19, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1858860265581719710</guid>
+      <pubDate>Tue, 19 Nov 2024 13:09:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hard Work and Anxiety: Counterproductive Connection</title>
+      <link>https://x.com/samdape/status/1861314207523754077</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;hard work fueled by anxiety isn’t just ineffective, it’s counterproductive&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1861314207523754077?ref_src=twsrc%5Etfw"&gt;November 26, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1861314207523754077</guid>
+      <pubDate>Tue, 26 Nov 2024 07:41:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>November Vibes Captured</title>
+      <link>https://x.com/samdape/status/1859918513110216793</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;november mood &lt;a href="https://t.co/upHEFlZ7yi"&gt;pic.twitter.com/upHEFlZ7yi&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1859918513110216793?ref_src=twsrc%5Etfw"&gt;November 22, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1859918513110216793</guid>
+      <pubDate>Fri, 22 Nov 2024 11:15:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Serenity of Revelation: Ideas Unveiled</title>
+      <link>https://x.com/samdape/status/1859235114569343177</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;having a good idea doesn’t feel like you’re doing anything, it just reveals itself&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1859235114569343177?ref_src=twsrc%5Etfw"&gt;November 20, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1859235114569343177</guid>
+      <pubDate>Wed, 20 Nov 2024 13:59:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Creative Image Shared by Sam</title>
+      <link>https://x.com/samdape/status/1859945404806451494</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;create &lt;a href="https://t.co/gyeq67FQHq"&gt;pic.twitter.com/gyeq67FQHq&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1859945404806451494?ref_src=twsrc%5Etfw"&gt;November 22, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1859945404806451494</guid>
+      <pubDate>Fri, 22 Nov 2024 13:01:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tweeted on 2024-11-21T17:19:01.000Z</title>
+      <link>https://x.com/samdape/status/1859647720170062123</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="et" dir="ltr"&gt;selfie v3 &lt;a href="https://t.co/E8D5DzsEV4"&gt;pic.twitter.com/E8D5DzsEV4&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1859647720170062123?ref_src=twsrc%5Etfw"&gt;November 21, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1859647720170062123</guid>
+      <pubDate>Thu, 21 Nov 2024 17:19:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Add Your Own File Name Feature Now Available"</title>
+      <link>https://x.com/samdape/status/1860107435354259756</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;add your own file-name:&lt;a href="https://t.co/Zb6HCvNf4X"&gt;https://t.co/Zb6HCvNf4X&lt;/a&gt;&lt;br&gt;&lt;br&gt;(thanks &lt;a href="https://twitter.com/v0?ref_src=twsrc%5Etfw"&gt;@v0&lt;/a&gt; / &lt;a href="https://twitter.com/rauchg?ref_src=twsrc%5Etfw"&gt;@rauchg&lt;/a&gt; for helping out) &lt;a href="https://t.co/YeLUS6cQR6"&gt;https://t.co/YeLUS6cQR6&lt;/a&gt; &lt;a href="https://t.co/ew6hqQnaCW"&gt;pic.twitter.com/ew6hqQnaCW&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1860107435354259756?ref_src=twsrc%5Etfw"&gt;November 22, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1860107435354259756</guid>
+      <pubDate>Fri, 22 Nov 2024 23:45:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Windows XP Nostalgia Photo Shared on Twitter"</title>
+      <link>https://x.com/samdape/status/1861408433284526146</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;windows_xp &lt;a href="https://t.co/xy5V2Oy6qy"&gt;pic.twitter.com/xy5V2Oy6qy&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1861408433284526146?ref_src=twsrc%5Etfw"&gt;November 26, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1861408433284526146</guid>
+      <pubDate>Tue, 26 Nov 2024 13:55:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Rediscovering Authenticity and Depth in the Internet"</title>
+      <link>https://x.com/samdape/status/1859520590287093864</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;the internet has lost its depth, quirkiness, and the authenticity of people simply making and sharing what they care about, without the distorting factor of monetization&lt;br&gt;&lt;br&gt;but i think it’s slowly coming back&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1859520590287093864?ref_src=twsrc%5Etfw"&gt;November 21, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1859520590287093864</guid>
+      <pubDate>Thu, 21 Nov 2024 08:53:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Delightful Moments of Kindness Captured"</title>
+      <link>https://x.com/samdape/status/1861796047686668363</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;so friendly &lt;a href="https://t.co/CJfZvkMefA"&gt;pic.twitter.com/CJfZvkMefA&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1861796047686668363?ref_src=twsrc%5Etfw"&gt;November 27, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1861796047686668363</guid>
+      <pubDate>Wed, 27 Nov 2024 15:35:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rediscovering Hidden Treasures in Old Notes</title>
+      <link>https://x.com/samdape/status/1857882657117397071</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;finding gems in forgotten notes &lt;a href="https://t.co/Mre2LkAMlE"&gt;pic.twitter.com/Mre2LkAMlE&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1857882657117397071?ref_src=twsrc%5Etfw"&gt;November 16, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1857882657117397071</guid>
+      <pubDate>Sat, 16 Nov 2024 20:25:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Wearable: The Futuristic Fidget Spinner</title>
+      <link>https://x.com/samdape/status/1859154430827913541</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;Ai wearable but it’s a fidget spinner&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1859154430827913541?ref_src=twsrc%5Etfw"&gt;November 20, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1859154430827913541</guid>
+      <pubDate>Wed, 20 Nov 2024 08:38:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Twitter Post Update from Sam Dape</title>
+      <link>https://x.com/samdape/status/1866229313135087903</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="zxx" dir="ltr"&gt;&lt;a href="https://t.co/tPqegToG2j"&gt;https://t.co/tPqegToG2j&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1866229313135087903?ref_src=twsrc%5Etfw"&gt;December 9, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1866229313135087903</guid>
+      <pubDate>Mon, 09 Dec 2024 21:11:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Japanese Receipt Transformed into Website in 3 Hours!</title>
+      <link>https://x.com/samdape/status/1864642635652075694</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;saw this japanese receipt laying around &amp;amp; turned it into my website 🌀&lt;a href="https://t.co/TfdoXlNIb9"&gt;https://t.co/TfdoXlNIb9&lt;/a&gt; &lt;br&gt;&lt;br&gt;from idea to live in ~3h with &lt;a href="https://twitter.com/figma?ref_src=twsrc%5Etfw"&gt;@figma&lt;/a&gt; &amp;amp; &lt;a href="https://twitter.com/v0?ref_src=twsrc%5Etfw"&gt;@v0&lt;/a&gt; &lt;a href="https://t.co/lHniV7Lezo"&gt;pic.twitter.com/lHniV7Lezo&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1864642635652075694?ref_src=twsrc%5Etfw"&gt;December 5, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1864642635652075694</guid>
+      <pubDate>Thu, 05 Dec 2024 12:07:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Honesty: A Double-Edged Sword in Life's Choices"</title>
+      <link>https://x.com/samdape/status/1863656219447066961</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;being honest limits your choices&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1863656219447066961?ref_src=twsrc%5Etfw"&gt;December 2, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1863656219447066961</guid>
+      <pubDate>Mon, 02 Dec 2024 18:47:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fun Art Appreciation and Christmas Market Inspiration</title>
+      <link>https://x.com/samdape/status/1865483583109898507</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;thanks everyone who made some fun art today 🖤 i chose &lt;a href="https://twitter.com/antongridz?ref_src=twsrc%5Etfw"&gt;@antongridz&lt;/a&gt;  🎅 (could be because i just came back from a Christmas market) &lt;a href="https://t.co/ttL7uHxKgy"&gt;pic.twitter.com/ttL7uHxKgy&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1865483583109898507?ref_src=twsrc%5Etfw"&gt;December 7, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1865483583109898507</guid>
+      <pubDate>Sat, 07 Dec 2024 19:48:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Enjoy the Art: No Sale Here"</title>
+      <link>https://x.com/samdape/status/1863972622314135808</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;if I had something to sell it would be here, but I don’ t, so enjoy the art&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1863972622314135808?ref_src=twsrc%5Etfw"&gt;December 3, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1863972622314135808</guid>
+      <pubDate>Tue, 03 Dec 2024 15:44:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Signs of Change Are Coming"</title>
+      <link>https://x.com/samdape/status/1863898175523700776</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;there will be signs &lt;a href="https://t.co/WMJTrbRwGd"&gt;pic.twitter.com/WMJTrbRwGd&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1863898175523700776?ref_src=twsrc%5Etfw"&gt;December 3, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1863898175523700776</guid>
+      <pubDate>Tue, 03 Dec 2024 10:48:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Refusal to Share Spotify Wrapped Highlights"</title>
+      <link>https://x.com/samdape/status/1864319898882613549</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;you couldn’t pay me to share my spotify wrapped&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1864319898882613549?ref_src=twsrc%5Etfw"&gt;December 4, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1864319898882613549</guid>
+      <pubDate>Wed, 04 Dec 2024 14:44:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trust Your Instincts Over Your Mind</title>
+      <link>https://x.com/samdape/status/1864778473035768184</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;the mind is wrong most of the time, true instinct isn’t&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1864778473035768184?ref_src=twsrc%5Etfw"&gt;December 5, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1864778473035768184</guid>
+      <pubDate>Thu, 05 Dec 2024 21:06:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mystical Bubble Image Shared on Twitter</title>
+      <link>https://x.com/samdape/status/1863565107222954264</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="qme" dir="ltr"&gt;🫧 &lt;a href="https://t.co/uSmYNcMpS3"&gt;pic.twitter.com/uSmYNcMpS3&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1863565107222954264?ref_src=twsrc%5Etfw"&gt;December 2, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1863565107222954264</guid>
+      <pubDate>Mon, 02 Dec 2024 12:45:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Discover Astrae's Stunning Typeface Design"</title>
+      <link>https://x.com/samdape/status/1864642638059549009</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;typeface by the wonderful studio astrae  &lt;a href="https://t.co/RwgdTTepG0"&gt;https://t.co/RwgdTTepG0&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1864642638059549009?ref_src=twsrc%5Etfw"&gt;December 5, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1864642638059549009</guid>
+      <pubDate>Thu, 05 Dec 2024 12:07:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>"The Power of 'No' in Design"</title>
+      <link>https://x.com/samdape/status/1865785820516687875</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;no is the most important word in design&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1865785820516687875?ref_src=twsrc%5Etfw"&gt;December 8, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1865785820516687875</guid>
+      <pubDate>Sun, 08 Dec 2024 15:49:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Appreciating Blok: A Game Changer for Sleep Habits"</title>
+      <link>https://x.com/samdape/status/1866229308601065731</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;shoutout to &lt;a href="https://twitter.com/danielbelfort?ref_src=twsrc%5Etfw"&gt;@danielbelfort&lt;/a&gt; and what he’s built with blok &lt;br&gt;&lt;br&gt;I didn’t expect to use it so much, but it’s actually helped me get my nights and mornings back by turning my phone into an overpriced alarm clock (I keep my blok out of the bedroom) &lt;a href="https://t.co/uGrV8VZKkx"&gt;pic.twitter.com/uGrV8VZKkx&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1866229308601065731?ref_src=twsrc%5Etfw"&gt;December 9, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1866229308601065731</guid>
+      <pubDate>Mon, 09 Dec 2024 21:11:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Feeding Time for Your Fish!"</title>
+      <link>https://x.com/samdape/status/1863570422102466601</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;time to feed your fish &lt;a href="https://t.co/Nv4dsi2Ufv"&gt;https://t.co/Nv4dsi2Ufv&lt;/a&gt; &lt;a href="https://t.co/za52ciUPGs"&gt;pic.twitter.com/za52ciUPGs&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1863570422102466601?ref_src=twsrc%5Etfw"&gt;December 2, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1863570422102466601</guid>
+      <pubDate>Mon, 02 Dec 2024 13:06:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Reviving Vintage iOS Buttons This Sunday"</title>
+      <link>https://x.com/samdape/status/1863318907060158871</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;🌷🌞🌧️🗿🦜🪩🌀🌵🪐&lt;br&gt;&lt;br&gt;_&lt;br&gt;sundays are for re-making vintage iOS buttons &lt;a href="https://t.co/N9rGLqmkSp"&gt;pic.twitter.com/N9rGLqmkSp&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1863318907060158871?ref_src=twsrc%5Etfw"&gt;December 1, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1863318907060158871</guid>
+      <pubDate>Sun, 01 Dec 2024 20:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Social Media: Ego vs. AREdotNA: Soul"</title>
+      <link>https://x.com/samdape/status/1863948201146929611</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;social media is for the ego, &lt;a href="https://twitter.com/AREdotNA?ref_src=twsrc%5Etfw"&gt;@AREdotNA&lt;/a&gt; for the soul&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1863948201146929611?ref_src=twsrc%5Etfw"&gt;December 3, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1863948201146929611</guid>
+      <pubDate>Tue, 03 Dec 2024 14:07:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Create Fun Doodle for ASCII Portrait Challenge!"</title>
+      <link>https://x.com/samdape/status/1865384901144396173</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;will make an ascii portrait for the person with the most fun doodle, quality doesn&amp;#39;t matter (in the next 4h)&lt;a href="https://t.co/NDACVM5JX4"&gt;https://t.co/NDACVM5JX4&lt;/a&gt; &lt;a href="https://t.co/mrviIw0vis"&gt;pic.twitter.com/mrviIw0vis&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1865384901144396173?ref_src=twsrc%5Etfw"&gt;December 7, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1865384901144396173</guid>
+      <pubDate>Sat, 07 Dec 2024 13:16:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unpacking What "Good" Really Means</title>
+      <link>https://x.com/samdape/status/1863656729327575168</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;which is good*&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1863656729327575168?ref_src=twsrc%5Etfw"&gt;December 2, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1863656729327575168</guid>
+      <pubDate>Mon, 02 Dec 2024 18:49:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Wanderer" - A Visual Journey by Sam</title>
+      <link>https://x.com/samdape/status/1869107806579900515</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;wanderer 🌀 &lt;a href="https://t.co/rxYmUyVe2m"&gt;pic.twitter.com/rxYmUyVe2m&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1869107806579900515?ref_src=twsrc%5Etfw"&gt;December 17, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1869107806579900515</guid>
+      <pubDate>Tue, 17 Dec 2024 19:50:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Intuition Beyond the Mind"</title>
+      <link>https://x.com/samdape/status/1871686945149210838</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;intuition doesn’t come from the mind&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1871686945149210838?ref_src=twsrc%5Etfw"&gt;December 24, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1871686945149210838</guid>
+      <pubDate>Tue, 24 Dec 2024 22:38:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT Insights Outshine Traditional LinkedIn Profiles</title>
+      <link>https://x.com/samdape/status/1869754843251998925</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;an honest chatGPT summary of you as a person is already more insightful than any LinkedIn profile&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1869754843251998925?ref_src=twsrc%5Etfw"&gt;December 19, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1869754843251998925</guid>
+      <pubDate>Thu, 19 Dec 2024 14:41:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Go Grayscale: Design Focus Over Color</title>
+      <link>https://x.com/samdape/status/1872958351681962458</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;turn your mac and phone grayscale; there are very few instances when you truly need color&lt;br&gt;&lt;br&gt;ps. if your figma designs don’t look good in b&amp;amp;w, adding colors won’t fix that, but they can make good design even better &lt;a href="https://t.co/lzJ29pzWbq"&gt;pic.twitter.com/lzJ29pzWbq&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1872958351681962458?ref_src=twsrc%5Etfw"&gt;December 28, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1872958351681962458</guid>
+      <pubDate>Sat, 28 Dec 2024 10:50:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Revamping '90s UX: Simplify Cursor AI Experience</title>
+      <link>https://x.com/samdape/status/1870498352544284749</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;aside from the chat window, Cursor AI &amp;amp; co. still have ’90s ux. just keep the chat and visual output and get rid of everything else&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1870498352544284749?ref_src=twsrc%5Etfw"&gt;December 21, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1870498352544284749</guid>
+      <pubDate>Sat, 21 Dec 2024 15:55:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cosmic Holiday Vibes in Symbols and Emojis</title>
+      <link>https://x.com/samdape/status/1871910146139681070</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="qme" dir="ltr"&gt;✨ 🌀     🪐  💫 ✨&lt;br&gt;         ✨&lt;br&gt;                  🌙&lt;br&gt;  💫                    ☄️ &lt;br&gt;&lt;br&gt;🌲🌲🌲🎄🌲🌲🌲 &lt;a href="https://t.co/ZhMQhwb5tj"&gt;pic.twitter.com/ZhMQhwb5tj&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1871910146139681070?ref_src=twsrc%5Etfw"&gt;December 25, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1871910146139681070</guid>
+      <pubDate>Wed, 25 Dec 2024 13:25:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Create Your Own Blue Bubble Wallpaper with Figma</title>
+      <link>https://x.com/samdape/status/1868344226712592520</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;make your own blue 🪼🌀🫐 bubble wallpaper&lt;br&gt;&lt;br&gt;made with &lt;a href="https://twitter.com/v0?ref_src=twsrc%5Etfw"&gt;@v0&lt;/a&gt; &amp;amp; &lt;a href="https://twitter.com/figma?ref_src=twsrc%5Etfw"&gt;@figma&lt;/a&gt; &lt;a href="https://t.co/zqU4fySssX"&gt;pic.twitter.com/zqU4fySssX&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1868344226712592520?ref_src=twsrc%5Etfw"&gt;December 15, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1868344226712592520</guid>
+      <pubDate>Sun, 15 Dec 2024 17:15:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Focus Shapes Life Satisfaction: Key Insight</title>
+      <link>https://x.com/samdape/status/1871856754998546495</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;the intensity of your focus determines how satisfying your life is&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1871856754998546495?ref_src=twsrc%5Etfw"&gt;December 25, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1871856754998546495</guid>
+      <pubDate>Wed, 25 Dec 2024 09:53:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Embrace Slowing Down for Faster Progress"</title>
+      <link>https://x.com/samdape/status/1869403752651997493</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;slowing down gets you where you want to go faster because it aligns you with the natural flow of life&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1869403752651997493?ref_src=twsrc%5Etfw"&gt;December 18, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1869403752651997493</guid>
+      <pubDate>Wed, 18 Dec 2024 15:26:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Year Reflections and Aspirations</title>
+      <link>https://x.com/samdape/status/1872243673087475990</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="zxx" dir="ltr"&gt;&lt;a href="https://t.co/XoR1qZCBVz"&gt;https://t.co/XoR1qZCBVz&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1872243673087475990?ref_src=twsrc%5Etfw"&gt;December 26, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1872243673087475990</guid>
+      <pubDate>Thu, 26 Dec 2024 11:30:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Staying Connected: The Rise of Reels in Communication"</title>
+      <link>https://x.com/samdape/status/1871312273236804091</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;staying in touch is just sending reels now&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1871312273236804091?ref_src=twsrc%5Etfw"&gt;December 23, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1871312273236804091</guid>
+      <pubDate>Mon, 23 Dec 2024 21:49:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Countdown to 2025: Only Days Left!</title>
+      <link>https://x.com/samdape/status/1872048790301270507</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;days        left&lt;br&gt;• • • • • • • • • •&lt;br&gt;• • • • • • • • • •&lt;br&gt;• • • • • • • • • •&lt;br&gt;• • • • • • • • • •&lt;br&gt;in          2025&lt;br&gt;&lt;br&gt;made w &lt;a href="https://twitter.com/v0?ref_src=twsrc%5Etfw"&gt;@v0&lt;/a&gt; &lt;a href="https://t.co/TuAvOuI56Q"&gt;pic.twitter.com/TuAvOuI56Q&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1872048790301270507?ref_src=twsrc%5Etfw"&gt;December 25, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1872048790301270507</guid>
+      <pubDate>Wed, 25 Dec 2024 22:36:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Busy Schedule, Hollow Existence"</title>
+      <link>https://x.com/samdape/status/1869816667343352172</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;full calendar, empty life&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1869816667343352172?ref_src=twsrc%5Etfw"&gt;December 19, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1869816667343352172</guid>
+      <pubDate>Thu, 19 Dec 2024 18:46:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Knowledge Abundance, Practice Deficit</title>
+      <link>https://x.com/samdape/status/1872220213560910321</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;all this knowledge, so little practice&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1872220213560910321?ref_src=twsrc%5Etfw"&gt;December 26, 2024&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1872220213560910321</guid>
+      <pubDate>Thu, 26 Dec 2024 09:57:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iconic Moment Captured in New Photo</title>
+      <link>https://x.com/samdape/status/1875470433958695339</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;iconic &lt;a href="https://t.co/4A9DbbU8sy"&gt;pic.twitter.com/4A9DbbU8sy&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1875470433958695339?ref_src=twsrc%5Etfw"&gt;January 4, 2025&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1875470433958695339</guid>
+      <pubDate>Sat, 04 Jan 2025 09:12:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enhancing Mockup Presentation: Videos Over Images and Text</title>
+      <link>https://x.com/samdape/status/1876258211818594636</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;being able to upload mockup videos like this to &lt;a href="https://twitter.com/v0?ref_src=twsrc%5Etfw"&gt;@v0&lt;/a&gt; or &lt;a href="https://twitter.com/cursor_ai?ref_src=twsrc%5Etfw"&gt;@cursor_ai&lt;/a&gt; would be much better for conveying logic, ideas, and feel than an image + bunch of text &lt;a href="https://t.co/mASgO4zvl7"&gt;https://t.co/mASgO4zvl7&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1876258211818594636?ref_src=twsrc%5Etfw"&gt;January 6, 2025&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1876258211818594636</guid>
+      <pubDate>Mon, 06 Jan 2025 13:23:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sam Announces New Project Plans</title>
+      <link>https://x.com/samdape/status/1876022942573965470</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;ok going to build it&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1876022942573965470?ref_src=twsrc%5Etfw"&gt;January 5, 2025&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1876022942573965470</guid>
+      <pubDate>Sun, 05 Jan 2025 21:48:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Claim Your Space: Build Your Own Internet Village"</title>
+      <link>https://x.com/samdape/status/1875158370174575086</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;the internet is more than a few giant platforms; it’s infinite land where you can plant your flag and start your own village&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1875158370174575086?ref_src=twsrc%5Etfw"&gt;January 3, 2025&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1875158370174575086</guid>
+      <pubDate>Fri, 03 Jan 2025 12:32:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Passion for Design and Truth in Creativity</title>
+      <link>https://x.com/samdape/status/1875275880752410700</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;I love good design and art—it’s what I try to do every day, and it’s what I think about most of the time. It gives life more meaning and makes us feel connected, and I will never stop trying to make beautiful things.&lt;br&gt;&lt;br&gt;But what I love even more is truth, and if a product is super… &lt;a href="https://t.co/qurRmkO3t2"&gt;https://t.co/qurRmkO3t2&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1875275880752410700?ref_src=twsrc%5Etfw"&gt;January 3, 2025&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1875275880752410700</guid>
+      <pubDate>Fri, 03 Jan 2025 20:19:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Embrace AI: Focus on What You Love Most</title>
+      <link>https://x.com/samdape/status/1876264390124859410</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;Ai allows you to spend more time on what you truly enjoy and are great at &lt;a href="https://t.co/jD1klSsAB3"&gt;https://t.co/jD1klSsAB3&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1876264390124859410?ref_src=twsrc%5Etfw"&gt;January 6, 2025&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1876264390124859410</guid>
+      <pubDate>Mon, 06 Jan 2025 13:47:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Digitizing Cards and Letters: A New Concept by Sam</title>
+      <link>https://x.com/samdape/status/1875895881247121517</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;keep your cards &amp;amp; letters 📬&lt;br&gt;&lt;br&gt;I always feel bad about tossing cards into a drawer, so I created this concept to quickly digitize the cards and letters I want to keep with me.&lt;br&gt;&lt;br&gt;made w &lt;a href="https://twitter.com/figma?ref_src=twsrc%5Etfw"&gt;@figma&lt;/a&gt; &lt;a href="https://t.co/aZU4COB9t7"&gt;pic.twitter.com/aZU4COB9t7&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1875895881247121517?ref_src=twsrc%5Etfw"&gt;January 5, 2025&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1875895881247121517</guid>
+      <pubDate>Sun, 05 Jan 2025 13:23:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Exciting Transition: @read_cv Joins @perplexity_ai Team"</title>
+      <link>https://x.com/_andychung/status/1880332676013650006</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;Today I’m excited to share that &lt;a href="https://twitter.com/read_cv?ref_src=twsrc%5Etfw"&gt;@read_cv&lt;/a&gt; is joining the team at &lt;a href="https://twitter.com/perplexity_ai?ref_src=twsrc%5Etfw"&gt;@perplexity_ai&lt;/a&gt; in their mission to make the world's knowledge more accessible to everyone. This is incredibly bittersweet for us, as the start of this new chapter will mark the end of our time with &lt;a href="https://twitter.com/read_cv?ref_src=twsrc%5Etfw"&gt;@read_cv&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;It has… &lt;a href="https://t.co/6CUinOEGsi"&gt;pic.twitter.com/6CUinOEGsi&lt;/a&gt;&lt;/p&gt;&amp;mdash; andy chung (@_andychung) &lt;a href="https://twitter.com/_andychung/status/1880332676013650006?ref_src=twsrc%5Etfw"&gt;January 17, 2025&lt;/a&gt;&lt;/blockquote&gt;</description>
+      <guid isPermaLink="true">https://x.com/_andychung/status/1880332676013650006</guid>
+      <pubDate>Fri, 17 Jan 2025 19:13:39 +0000</pubDate>
     </item>
     <item>
       <title>"Creating Valuable Work Beyond the Plagiarism Debate"</title>
@@ -136,11 +913,109 @@
       <pubDate>Thu, 24 Oct 2024 16:10:55 +0000</pubDate>
     </item>
     <item>
-      <title>"Exciting Transition: @read_cv Joins @perplexity_ai Team"</title>
-      <link>https://x.com/_andychung/status/1880332676013650006</link>
-      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;Today I’m excited to share that &lt;a href="https://twitter.com/read_cv?ref_src=twsrc%5Etfw"&gt;@read_cv&lt;/a&gt; is joining the team at &lt;a href="https://twitter.com/perplexity_ai?ref_src=twsrc%5Etfw"&gt;@perplexity_ai&lt;/a&gt; in their mission to make the world's knowledge more accessible to everyone. This is incredibly bittersweet for us, as the start of this new chapter will mark the end of our time with &lt;a href="https://twitter.com/read_cv?ref_src=twsrc%5Etfw"&gt;@read_cv&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;It has… &lt;a href="https://t.co/6CUinOEGsi"&gt;pic.twitter.com/6CUinOEGsi&lt;/a&gt;&lt;/p&gt;&amp;mdash; andy chung (@_andychung) &lt;a href="https://twitter.com/_andychung/status/1880332676013650006?ref_src=twsrc%5Etfw"&gt;January 17, 2025&lt;/a&gt;&lt;/blockquote&gt;</description>
-      <guid isPermaLink="true">https://x.com/_andychung/status/1880332676013650006</guid>
-      <pubDate>Fri, 17 Jan 2025 19:13:39 +0000</pubDate>
+      <title>"Creating Brings Joy: See You in 2025!"</title>
+      <link>https://x.com/samdape/status/1872359630657171550</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;life gets better when you make things, see you all in 2025 🌀 &lt;a href="https://t.co/iEhQrMnbK2"&gt;pic.twitter.com/iEhQrMnbK2&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1872359630657171550?ref_src=twsrc%5Etfw"&gt;December 26, 2024&lt;/a&gt;&lt;/blockquote&gt;</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1872359630657171550</guid>
+      <pubDate>Thu, 26 Dec 2024 19:11:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Web App Transformed to iPhone App in 72 Hours!</title>
+      <link>https://x.com/alec_dilanchian/status/1879947328460894693</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;In the last 72 hours, &lt;a href="https://twitter.com/samdape?ref_src=twsrc%5Etfw"&gt;@samdape&lt;/a&gt; and I converted a web app made on &lt;a href="https://twitter.com/v0?ref_src=twsrc%5Etfw"&gt;@v0&lt;/a&gt; to a native iPhone app that you can download rn in the App Store.&lt;br /&gt;&lt;br /&gt;And, I only wrote 10% of the code lol.&lt;br /&gt;&lt;br /&gt;Here's how I did it + some prompts to help you do the same 🧵 &lt;a href="https://t.co/H0EKq0gaXS"&gt;pic.twitter.com/H0EKq0gaXS&lt;/a&gt;&lt;/p&gt;&amp;mdash; alec (@alec_dilanchian) &lt;a href="https://twitter.com/alec_dilanchian/status/1879947328460894693?ref_src=twsrc%5Etfw"&gt;January 16, 2025&lt;/a&gt;&lt;/blockquote&gt;</description>
+      <guid isPermaLink="true">https://x.com/alec_dilanchian/status/1879947328460894693</guid>
+      <pubDate>Thu, 16 Jan 2025 17:42:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Unexpected Motivation to Master Tie-Tying Skills"</title>
+      <link>https://x.com/samdape/status/1879824152221401098</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;the sudden urge to learn how to tie a tie in case it comes up&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1879824152221401098?ref_src=twsrc%5Etfw"&gt;January 16, 2025&lt;/a&gt;&lt;/blockquote&gt;</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1879824152221401098</guid>
+      <pubDate>Thu, 16 Jan 2025 09:32:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Transforming Site to iOS App: Exciting Updates and Pricing Changes"</title>
+      <link>https://x.com/samdape/status/1879666002407084467</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;one year   &lt;br /&gt;&lt;br /&gt;super fun couple of days turning my &lt;a href="https://twitter.com/v0?ref_src=twsrc%5Etfw"&gt;@v0&lt;/a&gt; site into a native iOS app w &lt;a href="https://twitter.com/alec_dilanchian?ref_src=twsrc%5Etfw"&gt;@alec_dilanchian&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;he'll have a thread about the process later  &lt;br /&gt;&lt;br /&gt;also turns out my pricing strat was (too) silly, so we changed it to a flat one&lt;br /&gt;&lt;br /&gt;enjoy 🌻&lt;br /&gt;&lt;br /&gt;ps. also works on mac &lt;a href="https://t.co/opUstmyetf"&gt;https://t.co/opUstmyetf&lt;/a&gt; &lt;a href="https://t.co/jQau8zEmAV"&gt;pic.twitter.com/jQau8zEmAV&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1879666002407084467?ref_src=twsrc%5Etfw"&gt;January 15, 2025&lt;/a&gt;&lt;/blockquote&gt;</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1879666002407084467</guid>
+      <pubDate>Wed, 15 Jan 2025 23:04:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>"We're Live Now!"</title>
+      <link>https://x.com/samdape/status/1879660532585930871</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;&amp;amp; we're live &lt;a href="https://t.co/EVDgSNyZer"&gt;https://t.co/EVDgSNyZer&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1879660532585930871?ref_src=twsrc%5Etfw"&gt;January 15, 2025&lt;/a&gt;&lt;/blockquote&gt;</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1879660532585930871</guid>
+      <pubDate>Wed, 15 Jan 2025 22:42:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Impact of Algorithms on Art Exploration</title>
+      <link>https://x.com/samdape/status/1877974837508841844</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;on the internet, we don’t go to museums&lt;br /&gt;&lt;br /&gt;we let the algorithm push new art into our faces for 24 hours, and then it’s basically gone&lt;br /&gt;&lt;br /&gt;when was the last time you actively searched for a specific piece of art or artist just to look at the work for a while?&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1877974837508841844?ref_src=twsrc%5Etfw"&gt;January 11, 2025&lt;/a&gt;&lt;/blockquote&gt;</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1877974837508841844</guid>
+      <pubDate>Sat, 11 Jan 2025 07:04:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Redefining the Concept of Prompts in Communication</title>
+      <link>https://x.com/samdape/status/1877820534504751446</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;you don’t call it prompting trying to convey an idea to a person&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1877820534504751446?ref_src=twsrc%5Etfw"&gt;January 10, 2025&lt;/a&gt;&lt;/blockquote&gt;</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1877820534504751446</guid>
+      <pubDate>Fri, 10 Jan 2025 20:51:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Look Within: The Key to Problem Solving</title>
+      <link>https://x.com/samdape/status/1877357855537287256</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;trying to fix a problem by looking outward doesn’t work&lt;br /&gt;&lt;br /&gt;the solution is inside the problem, it’s understanding&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1877357855537287256?ref_src=twsrc%5Etfw"&gt;January 9, 2025&lt;/a&gt;&lt;/blockquote&gt;</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1877357855537287256</guid>
+      <pubDate>Thu, 09 Jan 2025 14:12:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>"AI: Transforming Tools into Universal Brushes for Creativity"</title>
+      <link>https://x.com/samdape/status/1877326430180200779</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;ai can transform all these rigid tools into a brush for everyone to use&lt;br /&gt;&lt;br /&gt;tech-nouveau&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1877326430180200779?ref_src=twsrc%5Etfw"&gt;January 9, 2025&lt;/a&gt;&lt;/blockquote&gt;</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1877326430180200779</guid>
+      <pubDate>Thu, 09 Jan 2025 12:07:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Daily App Use: Added to Homescreen</title>
+      <link>https://x.com/samdape/status/1876926910095089959</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;Added it to my homescreen &amp;amp; used it every day so far &lt;a href="https://t.co/CgU3dKSzDz"&gt;https://t.co/CgU3dKSzDz&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1876926910095089959?ref_src=twsrc%5Etfw"&gt;January 8, 2025&lt;/a&gt;&lt;/blockquote&gt;</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1876926910095089959</guid>
+      <pubDate>Wed, 08 Jan 2025 09:40:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>"This Year Is Basically Over"</title>
+      <link>https://x.com/samdape/status/1878503516970336755</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;this year is basically over &lt;a href="https://t.co/HRPNrjVaaU"&gt;pic.twitter.com/HRPNrjVaaU&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1878503516970336755?ref_src=twsrc%5Etfw"&gt;January 12, 2025&lt;/a&gt;&lt;/blockquote&gt;</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1878503516970336755</guid>
+      <pubDate>Sun, 12 Jan 2025 18:05:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exciting Update from Sam!</title>
+      <link>https://x.com/samdape/status/1878549215225283007</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="zxx"&gt;&lt;a href="https://t.co/elgWOKf4xp"&gt;https://t.co/elgWOKf4xp&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1878549215225283007?ref_src=twsrc%5Etfw"&gt;January 12, 2025&lt;/a&gt;&lt;/blockquote&gt;</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1878549215225283007</guid>
+      <pubDate>Sun, 12 Jan 2025 21:06:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>New iOS Widget App Launching Soon for $1 or $365</title>
+      <link>https://x.com/samdape/status/1878547979906187432</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;turning this into an iOS widget app w &lt;a href="https://twitter.com/alec_dilanchian?ref_src=twsrc%5Etfw"&gt;@alec_dilanchian&lt;/a&gt; in the next few days, 1$ per year or 365$ lifetime &lt;a href="https://t.co/kY9wFqz11B"&gt;https://t.co/kY9wFqz11B&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1878547979906187432?ref_src=twsrc%5Etfw"&gt;January 12, 2025&lt;/a&gt;&lt;/blockquote&gt;</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1878547979906187432</guid>
+      <pubDate>Sun, 12 Jan 2025 21:01:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Dream Workspaces: A WeWork Vision"</title>
+      <link>https://x.com/samdape/status/1878401245381070911</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;would work from wework if it looked like this &lt;a href="https://t.co/1Vavbs6JLr"&gt;pic.twitter.com/1Vavbs6JLr&lt;/a&gt;&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1878401245381070911?ref_src=twsrc%5Etfw"&gt;January 12, 2025&lt;/a&gt;&lt;/blockquote&gt;</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1878401245381070911</guid>
+      <pubDate>Sun, 12 Jan 2025 11:18:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hesitant to Share Interactive Designs Due to Algorithm Concerns</title>
+      <link>https://x.com/samdape/status/1878371624434405625</link>
+      <description>&lt;blockquote class="twitter-tweet"&gt;&lt;p dir="ltr" lang="en"&gt;sad that I’m now hesitant to share any interactive design work that has a link attached, the algorithm is just too punishing&lt;/p&gt;&amp;mdash; sam (@samdape) &lt;a href="https://twitter.com/samdape/status/1878371624434405625?ref_src=twsrc%5Etfw"&gt;January 12, 2025&lt;/a&gt;&lt;/blockquote&gt;</description>
+      <guid isPermaLink="true">https://x.com/samdape/status/1878371624434405625</guid>
+      <pubDate>Sun, 12 Jan 2025 09:21:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
