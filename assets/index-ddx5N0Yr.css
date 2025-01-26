@@ -3,8 +3,7 @@
     line-height: 1.5;
     font-weight: 400;
     color-scheme: light dark;
-    color: #fffcf0;
-    background-color: #242424;
+    background-color: #fffcf0;
     font-synthesis: none;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
@@ -22,7 +21,8 @@ a:hover {
 }
 
 body {
-    margin: 0
+    margin: 0;
+    background-color: #fffcf0;
 }
 
 h1 {
