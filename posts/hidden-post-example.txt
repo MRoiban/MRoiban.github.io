@@ -1,0 +1,162 @@
+---
+title: Markdown Formatting Cheatsheet
+date: 2024-05-25
+id: hidden-post-example
+hidden: true
+images:
+    - me
+footnotes: |
+    *: This is a footnote example
+    **: Here's a second footnote showing how multiple footnotes work
+---
+# Heading Level 1
+
+## Heading Level 2
+
+### Heading Level 3
+
+This document serves as a comprehensive cheatsheet for all the formatting options available in posts. You can access this anytime at `your-site.com/#formatting-cheatsheet`.
+
+## Text Formatting
+
+Regular paragraph text looks like this.
+
+*This text is in italic* using single asterisks.
+
+**This text is bold** using double asterisks.
+
+***This text is bold and italic*** using triple asterisks.
+
+<em>This is italic using HTML tags</em> which also works perfectly.
+
+<strong>This is bold using HTML tags</strong> which gives you more control.
+
+## Code Formatting
+
+### Inline Code
+
+Use backticks for `inline code` that will be properly styled without diffusion effects.
+
+You can use it for variables like `user_id` or commands like `npm install`.
+
+### Code Blocks
+
+Code blocks use triple backticks with an optional language identifier:
+
+```javascript
+// JavaScript example
+function greet(name) {
+  console.log(`Hello, ${name}!`);
+  return true;
+}
+
+// This code will be syntax highlighted
+const result = greet("World");
+```
+
+```python
+# Python example
+def calculate_sum(a, b):
+    """
+    Calculate the sum of two numbers
+    """
+    return a + b
+    
+# Comments are properly styled
+result = calculate_sum(5, 10)
+print(f"The result is {result}")
+```
+
+```css
+/* CSS example */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Colors are syntax highlighted */
+h1 {
+  color: #205EA6;
+  font-size: 2em;
+}
+```
+
+## HTML Elements
+
+<div style="padding: 1em; border: 1px solid #66800C; border-radius: 8px;">
+  <p>This is a custom styled div using inline HTML.</p>
+  <p>You can use any HTML elements directly in your posts.</p>
+</div>
+
+<ul>
+  <li>This is an HTML list</li>
+  <li>With multiple items</li>
+  <li>And <strong>formatting</strong> inside items</li>
+</ul>
+
+## Line Breaks
+
+You can use the HTML <br> tag to force a line break<br>
+Like this, without starting a new paragraph.
+
+## Mixing Formats
+
+You can **mix *different* formats** together.
+
+You can also include `inline code` within **bold text**.
+
+## Links
+
+[This is a link](https://example.com) that uses markdown syntax.
+
+<a href="https://example.com" target="_blank">This is an HTML link</a> with a target attribute.
+
+## Images
+
+Images can be included in the frontmatter `images` property to appear at the top of the post, but you can also reference external images using markdown:
+
+![Alt text](https://via.placeholder.com/150)
+
+
+## Footnotes
+
+You can reference footnotes in your text like this* and this**.
+
+The footnotes are defined in the frontmatter and will appear at the bottom of the post.
+
+## Hidden Posts
+
+To make a post hidden (like this cheatsheet), add `hidden: true` to the frontmatter. The post will still be accessible via direct URL but won't appear in listings.
+
+## YAML Frontmatter Options
+
+The frontmatter at the top of each post file supports these fields:
+
+```yaml
+---
+title: Post Title
+date: YYYY-MM-DD
+id: custom-post-id
+hidden: true/false
+link: https://external-link.com
+images:
+    - image1
+    - image2
+footnotes: |
+    *: Footnote 1
+    **: Footnote 2
+---
+```
+
+- `title`: The post title (required)
+- `date`: Publication date (required)
+- `id`: Custom URL identifier (optional, generated from title if omitted)
+- `hidden`: Whether to hide from listings (optional, defaults to false)
+- `link`: External link for linked posts (optional)
+- `images`: List of images to display (optional)
+- `footnotes`: Footnotes to include at bottom (optional)
+
+A new test
+1. this is a ordered list
+2. test

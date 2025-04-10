@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap');
+
+pre[class*="language-"] {
+    background: #F1ECEA;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+    padding: 1em;
+    margin: 1.5em 0;
+    overflow: auto;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.95em;
+    line-height: 1.6;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+code[class*="language-"] {
+    color: #205EA6;
+    text-shadow: none;
+    white-space: pre;
+}
+
+code.inline-code {
+    background: #F1ECEA;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 4px;
+    padding: 0.2em 0.4em;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.9em;
+    color: #205EA6;
+    white-space: nowrap;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    position: relative;
+    top: -0.1em;
+    display: inline-block;
+    line-height: 1.4;
+    /* Prevent diffusion effect */
+    visibility: visible !important;
+}
+
+/* Prevent diffusion from breaking down inline code into character spans */
+.diffuse-text code.inline-code {
+    opacity: 1 !important;
+    visibility: visible !important;
+}
+
+/* Make sure spans inside inline code aren't affected by diffusion */
+code.inline-code span {
+    opacity: 1 !important;
+    visibility: visible !important;
+    animation: none !important;
+}
+
+code.inline-code .token.comment { color: #24837B; font-style: italic; }
+code.inline-code .token.punctuation { color: #0431FA; opacity: 0.7; }
+code.inline-code .token.property { color: #0431FA; }
+code.inline-code .token.string { color: #24837B; }
+code.inline-code .token.operator { color: #0431FA; opacity: 0.8; }
+code.inline-code .token.keyword { color: #66800C; font-weight: 500; }
+code.inline-code .token.function { color: #BC5214; }
+code.inline-code .token.variable { color: #AF3029; }
+
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+    color: #24837B;
+    font-style: italic;
+}
+
+.token.punctuation {
+    color: #0431FA;
+    opacity: 0.7;
+}
+
+.token.property,
+.token.tag,
+.token.boolean,
+.token.number,
+.token.constant,
+.token.symbol,
+.token.deleted {
+    color: #0431FA;
+}
+
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin,
+.token.inserted {
+    color: #24837B;
+}
+
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string {
+    color: #ffffff;
+    opacity: 0.8;
+}
+
+.token.atrule,
+.token.attr-value,
+.token.keyword {
+    color: #66800C;
+    font-weight: 500;
+}
+
+.token.function,
+.token.class-name {
+    color: #BC5214;
+}
+
+.token.regex,
+.token.important,
+.token.variable {
+    color: #AF3029;
+}
+
+pre[class*="language-"]::-webkit-scrollbar {
+    height: 8px;
+    width: 8px;
+}
+
+pre[class*="language-"]::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 4px;
+}
+
+pre[class*="language-"]::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 4px;
+}
+
+pre[class*="language-"]::-webkit-scrollbar-thumb:hover {
+    background: rgba(255, 255, 255, 0.3);
+}

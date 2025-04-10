@@ -1,0 +1,38 @@
+---
+title: Portable Extensible Machine
+date: 2024-08-24
+id: portable-extensible-machine
+hidden: false
+link: https://github.com/MRoiban/pmx11
+images:
+  - pmx_preview
+---
+
+<p>PMX11 is an elegant and minimalist virtual machine implementation with its own custom assembly language. It's designed with simplicity, portability, and extensibility in mind, making it an excellent tool for learning about computer architecture and low-level programming.</p>
+
+### Key Features
+<ul>
+  <li>
+    Custom Assembly Language: PMX11 comes with its own assembly language that supports basic operations like LOAD, ADD, SUB, PUSH, POP, and more complex operations for control flow and device interaction.
+  </li>
+  <li>
+    Cross-Platform Compatibility: Built using C11 and SDL2, PMX11 runs seamlessly across major operating systems.
+  </li>
+  <li>
+    Interactive Display System: Features a simple but effective display system for visual output, making it possible to create basic graphical applications.
+  </li>
+  <li>
+    Device Integration: Includes support for various devices like console, display, and mouse input, allowing for interactive programs.
+  </li>
+</ul>
+
+<h3>Architecture</h3>
+<ul>
+  <li>A virtual machine core that executes the bytecode</li>
+  <li>An assembler that translates PMX assembly code into bytecode</li>
+  <li>Device interfaces for input/output operations</li>
+  <li>A simple but powerful instruction set</li>
+</ul>
+
+The beauty of PMX11 lies in its minimalist approach - it provides just enough functionality to be useful while remaining simple enough to be fully understood.
+
