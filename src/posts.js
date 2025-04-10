@@ -1,5 +1,9 @@
 class PostRouter {
     constructor() {
+        // Add base path handling
+        this.basePath = window.location.pathname.replace(/\/[^/]*$/, '');
+        if (this.basePath === '/') this.basePath = '';
+
         this.posts = new Map();
         this.mainContent = document.querySelector('.container');
         this.originalContent = this.mainContent.innerHTML;
@@ -42,7 +46,8 @@ class PostRouter {
         }
 
         try {
-            const response = await fetch(`posts/${id}.txt`);
+            // Update fetch path to use relative path
+            const response = await fetch(`${this.basePath}/posts/${id}.txt`);
             if (!response.ok) throw new Error('Post not found');
             
             const text = await response.text();
@@ -62,7 +67,8 @@ class PostRouter {
 
     async loadAllPosts(includeHidden = false) {
         try {
-            const response = await fetch('posts/index.json');
+            // Update fetch path to use relative path
+            const response = await fetch(`${this.basePath}/posts/index.json`);
             if (!response.ok) throw new Error('Posts index not found');
             
             const postIndex = await response.json();
@@ -566,4 +572,4 @@ function formatText(text) {
     text = text.replace(/\*([^*]+)\*/g, '<em>$1</em>');
     
     return text;
-} 
+}
