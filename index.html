@@ -1,14 +1,202 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/png" href="https://chibi.roiban.xyz/vsbZOGdtNzOw.png" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Roiban</title>
-    <script type="module" crossorigin src="/assets/index-Co38EYgS.js"></script>
-    <link rel="stylesheet" crossorigin href="/assets/index-m5zZEFDm.css">
-  </head>
-  <body>
-    <div id="root"></div>
-  </body>
-</html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/png" href="https://url.roiban.xyz/roiban-ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Roiban - CV</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="posts.css">
+    <script src="https://unpkg.com/htmx.org@1.9.10"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-python.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-javascript.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-c.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-cpp.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-java.min.js"></script>
+    <script src="diffusion.js"></script>
+    <script src="popup.js"></script>
+    <script src="posts.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div 
+            hx-get="javascript:void(0)" 
+            hx-trigger="load" 
+            hx-swap="none" 
+            hx-on::after-request="document.dispatchEvent(new Event('DOMContentLoaded'))">
+        </div>
+        
+        <header>
+            <div class=" link popup" data-popup-ids="me" data-popup-scale="1.5" data-popup-rotation-start="5" data-popup-rotation-end="-5">
+                <h1 class="diffuse-text" data-diffuse-delay="100">ROIBAN</h1>
+                <h2 class="diffuse-text" data-diffuse-delay="80">Marius-Alexandru</h2>
+            </div>
+            <div class="contact-info">
+                <div class="contact-item">
+                    <img class="icon-img" src="https://url.roiban.xyz/email-ico" alt="Email icon">
+                    <a href="mailto:roiban.marius.alexandru@gmail.com" class="diffuse-text" data-diffuse-delay="30">roiban.marius.alexandru@gmail.com</a>
+                </div>
+                <div class="contact-item">
+                    <img class="icon-img" src="https://url.roiban.xyz/phone-ico" alt="Phone icon">
+                    <a href="tel:+32499833164" class="diffuse-text" data-diffuse-delay="30">+32499833164</a>
+                </div>
+                <div class="contact-item">
+                    <img class="icon-img" src="https://url.roiban.xyz/pin-ico" alt="Location icon">
+                    <a href="https://maps.app.goo.gl/qFVsYKCac3TYDkiX6" target="_blank" rel="noopener noreferrer" class="diffuse-text" data-diffuse-delay="30">Brussels, BE</a>
+                </div>
+            </div>
+        </header>
+
+        <section id="projects">
+            <h3 class="diffuse-text">Projects</h3>
+            <div class="section-underline"></div>
+            <ul>
+                <li class="diffuse-text">Flashcard Application (Windows & Linux) made with Java for ULB</li>
+                <li class="diffuse-text">Messaging Application (Windows) made with C++ as a personal project</li>
+                <li class="diffuse-text">Fasting Application (Android) made with Kotlin as a personal project</li>
+                <li class="diffuse-text">PC Games Developpement
+                    <ul>
+                        <li class="diffuse-text">Quoridor (Windows & Linux) made with C# for ULB</li>
+                        <li class="diffuse-text">The Amazons (Windows & Linux) made with Python for ULB</li>
+                        <li class="diffuse-text">Clone of Candy Crush (Windows & Linux) made with C++ for ULB</li>
+                    </ul>
+                </li>
+                <li class="link">
+                    <a href="https://dev.roiban.xyz/#portable-extensible-machine" class="diffuse-text link popup" data-popup-ids="pmx_preview" data-popup-rotation-start="-12" data-popup-rotation-end="12">PMX, a fantasy Personal Computer made from scratch in C</a>
+                </li>
+                <li class="link">
+                    <a href="https://github.com/MRoiban/i18n-Automatic-Translator" class="diffuse-text link popup" data-popup-ids="i18n_preview,translator_preview" data-popup-rotation-start="0" data-popup-rotation-end="-20">i18n Translator, a mass translation (python) program using AI</a>
+                </li>
+            </ul>
+        </section>
+
+        <section id="studies">
+            <h3 class="diffuse-text">Studies</h3>
+            <div class="section-underline"></div>
+            
+            <div class="study-item">
+                <div class="study-details">
+                    <h4 class="diffuse-text">Bachelor degree in Computer Science at ULB</h4>
+                </div>
+                <div class="study-date diffuse-text">Sep 2020 - Jun 2025</div>
+            </div>
+            
+            <div class="study-content">
+                <ul>
+                    <li class="diffuse-text">Classes: Artificial Intelligence, Linear Algebra, Algorithms, Advanced Algorithms, Networking, Information Theory, Probability & Statistics, Industrial Engineering & Project Management, Operating Systems, SAT & Theoretical IT, Models & Simulations, Databases</li>
+                    <li class="diffuse-text">Member of the Science's Student Bureau (BES)</li>
+                    <li class="diffuse-text">Volunteer</li>
+                </ul>
+            </div>
+            
+            <div class="study-item">
+                <div class="study-details">
+                    <h4 class="diffuse-text">Master degree in Computer Science at ULB</h4>
+                </div>
+                <div class="study-date diffuse-text">Sep 2025 - Jun 2028</div>
+            </div>
+            
+            <div class="study-item">
+                <div class="study-details">
+                    <h4 class="diffuse-text">Python MOOC</h4>
+                </div>
+                <div class="study-date diffuse-text">Dec 2022</div>
+            </div>
+        </section>
+
+        <section id="skills">
+            <div class="skills-languages-container">
+                <div class="skills-column">
+                    <h3 class="diffuse-text">LANGUAGES</h3>
+                    <div class="section-underline"></div>
+                    <div class="language-list">
+                        <div class="language-item">
+                            <span class="diffuse-text">English</span>
+                            <span class="diffuse-text language-level">C2</span>
+                        </div>
+                        <div class="language-item">
+                            <span class="diffuse-text">French</span>
+                            <span class="diffuse-text language-level">C2</span>
+                        </div>
+                        <div class="language-item">
+                            <span class="diffuse-text">Romanian</span>
+                            <span class="diffuse-text language-level">C2</span>
+                        </div>
+                        <div class="language-item">
+                            <span class="diffuse-text">Dutch</span>
+                            <span class="diffuse-text language-level">A1</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="skills-column">
+                    <h3 class="diffuse-text">SKILLS</h3>
+                    <div class="section-underline"></div>
+                    <div class="skills-list">
+                        <div class="skill-item">
+                            <span class="diffuse-text skill-text">Python, Java, Lua, Gdscript, C, C++, C#, Javascript, Typescript, Kotlin, SQL</span>
+                        </div>
+                        <div class="skill-item">
+                            <span class="diffuse-text skill-text">React, Angular, Vite, Node, npm, Git</span>
+                        </div>
+                        <div class="skill-item">
+                            <span class="diffuse-text skill-text">TDD, Scrum, Waterfall (and more learned at ULB)</span>
+                        </div>
+                        <div class="skill-item">
+                            <span class="diffuse-text skill-text">Web Design, Graphic Design</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="posts">
+            <h3 class="diffuse-text">Posts</h3>
+            <div class="section-underline"></div>
+            <div id="posts-container"></div>
+        </section>
+    </div>
+
+    <script>
+        // Create the router once when the page loads
+        let router;
+        
+        // Initialize the router after the DOM is fully loaded
+        window.addEventListener('load', () => {
+            router = new PostRouter();
+            console.log("Router initialized");
+            
+            // Force load posts immediately
+            const postsSection = document.getElementById('posts-container');
+            if (postsSection) {
+                router.loadAllPosts().then(posts => {
+                    console.log("Directly loading posts:", posts);
+                    const postsHTML = router.renderPostsListHTML(posts);
+                    postsSection.innerHTML = postsHTML;
+                    document.dispatchEvent(new Event('DOMContentLoaded'));
+                });
+            }
+            
+            // Re-initialize popups whenever the page content changes
+            document.addEventListener('DOMContentLoaded', () => {
+                // Wait for diffusion animation to complete
+                setTimeout(() => {
+                    if (typeof initPopups === 'function') {
+                        initPopups();
+                    }
+                }, 500);
+            });
+            
+            // Add a callback to the hash change event to handle popups
+            window.addEventListener('hashchange', () => {
+                // Wait for the new page to render
+                setTimeout(() => {
+                    if (typeof initPopups === 'function') {
+                        initPopups();
+                    }
+                }, 500);
+            });
+        });
+    </script>
+</body>
+</html> 
