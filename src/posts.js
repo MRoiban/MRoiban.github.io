@@ -47,8 +47,10 @@ class PostRouter {
 
         try {
             // Update fetch path to use relative path - remove basePath
-            const response = await fetch(`posts/${id}.txt`);
-            if (!response.ok) throw new Error(`Post not found: posts/${id}.txt (Status: ${response.status})`);
+            const url = `posts/${id}.txt`;
+            console.log(`Fetching post from URL: ${url}`); // Log the URL before fetching
+            const response = await fetch(url);
+            if (!response.ok) throw new Error(`Post not found: ${url} (Status: ${response.status})`);
             
             const text = await response.text();
             console.log("Raw fetched content:", text);
