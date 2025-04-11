@@ -46,9 +46,9 @@ class PostRouter {
         }
 
         try {
-            // Update fetch path to use relative path
-            const response = await fetch(`${this.basePath}/posts/${id}.txt`);
-            if (!response.ok) throw new Error('Post not found');
+            // Update fetch path to use relative path - remove basePath
+            const response = await fetch(`posts/${id}.txt`);
+            if (!response.ok) throw new Error(`Post not found: posts/${id}.txt (Status: ${response.status})`);
             
             const text = await response.text();
             const post = parsePost(text);
@@ -67,9 +67,9 @@ class PostRouter {
 
     async loadAllPosts(includeHidden = false) {
         try {
-            // Update fetch path to use relative path
-            const response = await fetch(`${this.basePath}/posts/index.json`);
-            if (!response.ok) throw new Error('Posts index not found');
+            // Update fetch path to use relative path - remove basePath
+            const response = await fetch(`posts/index.json`);
+            if (!response.ok) throw new Error(`Posts index not found: posts/index.json (Status: ${response.status})`);
             
             const postIndex = await response.json();
             console.log("Post index:", postIndex);
