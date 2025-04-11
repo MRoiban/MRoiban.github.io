@@ -51,6 +51,7 @@ class PostRouter {
             if (!response.ok) throw new Error(`Post not found: posts/${id}.txt (Status: ${response.status})`);
             
             const text = await response.text();
+            console.log("Raw fetched content:", text);
             const post = parsePost(text);
             
             console.log(`Loaded post ${id} with hidden status:`, post.metadata.hidden);
