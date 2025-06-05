@@ -1,3 +1,10 @@
+const DEBUG = false;
+const debugLog = (...args) => {
+    if (DEBUG) {
+        console.log(...args);
+    }
+};
+
 class PostRouter {
     constructor() {
         // Add base path handling
@@ -21,7 +28,7 @@ class PostRouter {
                 const postsSection = document.getElementById('posts-container');
                 if (postsSection) {
                     this.loadAllPosts().then(posts => {
-                        console.log("Initial posts load:", posts.map(p => p.id));
+                        debugLog("Initial posts load:", posts.map(p => p.id));
                         const postsHTML = this.renderPostsListHTML(posts);
                         postsSection.innerHTML = postsHTML;
                         document.dispatchEvent(new Event('DOMContentLoaded'));
@@ -48,15 +55,15 @@ class PostRouter {
         try {
             // Update fetch path to use relative path - remove basePath
             const url = `posts/${id}.txt`;
-            console.log(`Fetching post from URL: ${url}`); // Log the URL before fetching
+            debugLog(`Fetching post from URL: ${url}`);
             const response = await fetch(url);
             if (!response.ok) throw new Error(`Post not found: ${url} (Status: ${response.status})`);
             
             const text = await response.text();
-            console.log("Raw fetched content:", text);
+            debugLog("Raw fetched content:", text);
             const post = parsePost(text);
             
-            console.log(`Loaded post ${id} with hidden status:`, post.metadata.hidden);
+            debugLog(`Loaded post ${id} with hidden status:`, post.metadata.hidden);
             
             // Store the id with the post
             post.id = id;
@@ -75,24 +82,24 @@ class PostRouter {
             if (!response.ok) throw new Error(`Posts index not found: posts/index.json (Status: ${response.status})`);
             
             const postIndex = await response.json();
-            console.log("Post index:", postIndex);
+            debugLog("Post index:", postIndex);
             
             const posts = [];
             for (const id of postIndex) {
                 const post = await this.loadPost(id);
-                console.log(`Post ${id}:`, post, "Hidden:", post ? post.metadata.hidden : 'not loaded');
+                debugLog(`Post ${id}:`, post, "Hidden:", post ? post.metadata.hidden : 'not loaded');
                 
                 // Only skip posts that explicitly have hidden: true
                 // Include posts where hidden is false or undefined
                 if (post && (post.metadata.hidden !== true || includeHidden)) {
                     posts.push(post);
-                    console.log(`Added post ${id} to visible list`);
+                    debugLog(`Added post ${id} to visible list`);
                 } else if (post) {
-                    console.log(`Post ${id} is hidden and not included`);
+                    debugLog(`Post ${id} is hidden and not included`);
                 }
             }
-            
-            console.log("Final posts list:", posts.map(p => p.id));
+
+            debugLog("Final posts list:", posts.map(p => p.id));
             
             // Sort by date, newest first
             posts.sort((a, b) => new Date(b.metadata.date) - new Date(a.metadata.date));
@@ -168,7 +175,7 @@ class PostRouter {
             return;
         }
 
-        console.log("Loading post:", hash);
+        debugLog("Loading post:", hash);
         const post = await this.loadPost(hash);
         if (post) {
             this.renderSinglePost(post);
