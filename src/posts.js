@@ -242,10 +242,11 @@ class PostRouter {
             imagesHTML = `
                 <div class="post-image-container">
                     ${post.metadata.images.map((imgName, index) => `
-                        <img 
-                            src="public/${imgName}.png" 
-                            alt="${imgName.replace(/_/g, ' ')}" 
-                            class="post-image" 
+                        <img
+                            src="public/${imgName}.png"
+                            alt="${imgName.replace(/_/g, ' ')}"
+                            class="post-image"
+                            loading="lazy"
                             style="z-index: ${post.metadata.images.length - index};"
                         >`
                     ).join('')}
