@@ -1,8 +1,5 @@
 class PostRouter {
     constructor() {
-        // Add base path handling
-        this.basePath = window.location.pathname.replace(/\/[^/]*$/, '');
-        if (this.basePath === '/') this.basePath = '';
 
         this.posts = new Map();
         this.mainContent = document.querySelector('.container');
@@ -46,7 +43,7 @@ class PostRouter {
         }
 
         try {
-            // Update fetch path to use relative path - remove basePath
+            // Fetch the post from the posts folder
             const url = `posts/${id}.txt`;
             console.log(`Fetching post from URL: ${url}`); // Log the URL before fetching
             const response = await fetch(url);
@@ -70,7 +67,7 @@ class PostRouter {
 
     async loadAllPosts(includeHidden = false) {
         try {
-            // Update fetch path to use relative path - remove basePath
+            // Fetch the posts index from the posts folder
             const response = await fetch(`posts/index.json`);
             if (!response.ok) throw new Error(`Posts index not found: posts/index.json (Status: ${response.status})`);
             
