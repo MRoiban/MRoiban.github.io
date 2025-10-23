@@ -5,34 +5,125 @@ const debugLog = (...args) => {
     }
 };
 
+const POSTS_APP_CONTENT_EVENT = 'app:content-updated';
+
 class PostRouter {
     constructor() {
-
         this.posts = new Map();
+        this.postIndex = null;
+        this.postIndexPromise = null;
+        this.lastIndexFetch = 0;
+        this.visiblePostsCache = null;
+        this.postsListHTMLCache = '';
+        this.prismLanguagesLoaded = new Set();
         this.mainContent = document.querySelector('.container');
         this.originalContent = this.mainContent.innerHTML;
         
         // Handle URL changes
         window.addEventListener('hashchange', () => this.handleRoute());
-        
-        // Only handle route on initial load if there's a hash
+
         if (window.location.hash) {
-            // Wait a moment for everything else to initialize
-            setTimeout(() => this.handleRoute(), 200);
+            this.handleRoute();
         } else {
-            // If no hash, load the posts directly
-            setTimeout(() => {
-                const postsSection = document.getElementById('posts-container');
-                if (postsSection) {
-                    this.loadAllPosts().then(posts => {
-                        debugLog("Initial posts load:", posts.map(p => p.id));
-                        const postsHTML = this.renderPostsListHTML(posts);
-                        postsSection.innerHTML = postsHTML;
-                        document.dispatchEvent(new Event('DOMContentLoaded'));
+            this.renderPostsSection().then(rendered => {
+                if (rendered) {
+                    this.dispatchContentUpdated({
+                        components: this.getComponentsForSection(),
+                        options: { skipAnimation: false, source: 'initial-load' }
                     });
                 }
-            }, 300);
+            });
         }
+    }
+
+    dispatchContentUpdated(detail = {}) {
+        const payload = {
+            timestamp: Date.now(),
+            root: this.mainContent,
+            ...detail
+        };
+
+        if (!payload.root) {
+            payload.root = this.mainContent || document;
+        }
+
+        document.dispatchEvent(new CustomEvent(POSTS_APP_CONTENT_EVENT, {
+            detail: payload
+        }));
+    }
+
+    getComponentsForSection(root = document) {
+        const components = ['diffusion'];
+        if (root.querySelector('.link.popup')) {
+            components.push('popups');
+        }
+        if (root.querySelector('pre code')) {
+            components.push('prism');
+        }
+        return components;
+    }
+
+    async fetchPostIndex() {
+        if (this.postIndex) {
+            return this.postIndex;
+        }
+
+        if (!this.postIndexPromise) {
+            this.postIndexPromise = fetch(`posts/index.json`)
+                .then(async (response) => {
+                    if (!response.ok) {
+                        throw new Error(`Posts index not found: posts/index.json (Status: ${response.status})`);
+                    }
+                    const data = await response.json();
+                    this.postIndex = Array.isArray(data) ? data : [];
+                    this.lastIndexFetch = Date.now();
+                    debugLog('Fetched post index:', this.postIndex);
+                    return this.postIndex;
+                })
+                .catch(error => {
+                    this.postIndexPromise = null;
+                    throw error;
+                });
+        }
+
+        return this.postIndexPromise;
+    }
+
+    async renderPostsSection(includeHidden = false) {
+        const postsSection = document.getElementById('posts-container');
+        if (!postsSection) {
+            return false;
+        }
+
+        const { html } = await this.ensurePostsList(includeHidden);
+        postsSection.innerHTML = html;
+        return true;
+    }
+
+    async ensurePostsList(includeHidden = false) {
+        if (!includeHidden && this.postsListHTMLCache) {
+            return {
+                posts: this.visiblePostsCache || [],
+                html: this.postsListHTMLCache
+            };
+        }
+
+        const posts = await this.loadAllPosts(includeHidden);
+        const html = this.renderPostsListHTML(posts);
+
+        if (!includeHidden) {
+            this.visiblePostsCache = posts;
+            this.postsListHTMLCache = html;
+        }
+
+        return { posts, html };
+    }
+
+    closePopups() {
+        const popupContainers = document.querySelectorAll('.popup-container');
+        popupContainers.forEach(container => {
+            container.style.display = 'none';
+        });
     }
 
     generateId(title, date) {
@@ -74,39 +165,30 @@ class PostRouter {
 
     async loadAllPosts(includeHidden = false) {
         try {
-            // Fetch the posts index from the posts folder
-            const response = await fetch(`posts/index.json`);
-            if (!response.ok) throw new Error(`Posts index not found: posts/index.json (Status: ${response.status})`);
-            
-            const postIndex = await response.json();
-            debugLog("Post index:", postIndex);
-            
-            const posts = [];
-            for (const id of postIndex) {
-                const post = await this.loadPost(id);
-                debugLog(`Post ${id}:`, post, "Hidden:", post ? post.metadata.hidden : 'not loaded');
-                
-                // Only skip posts that explicitly have hidden: true
-                // Include posts where hidden is false or undefined
-                if (post && (post.metadata.hidden !== true || includeHidden)) {
-                    posts.push(post);
-                    debugLog(`Added post ${id} to visible list`);
-                } else if (post) {
-                    debugLog(`Post ${id} is hidden and not included`);
-                }
+            const ids = await this.fetchPostIndex();
+
+            const posts = await Promise.all(ids.map(id => this.loadPost(id)));
+            const filteredPosts = posts
+                .filter(Boolean)
+                .filter(post => includeHidden ? true : post.metadata.hidden !== true);
+
+            debugLog('Loaded posts:', filteredPosts.map(p => p.id));
+
+            filteredPosts.sort((a, b) => new Date(b.metadata.date) - new Date(a.metadata.date));
+
+            if (!includeHidden) {
+                this.visiblePostsCache = filteredPosts;
             }
 
-            debugLog("Final posts list:", posts.map(p => p.id));
-            
-            // Sort by date, newest first
-            posts.sort((a, b) => new Date(b.metadata.date) - new Date(a.metadata.date));
-            return posts;
+            return filteredPosts;
         } catch (error) {
             console.error('Error loading posts index:', error);
-            // Fallback to example post if index is not found
-            const post = await this.loadPost('portable-extensible-machine');
-            if (post && (post.metadata.hidden !== true || includeHidden)) {
-                return [post];
+            const fallback = await this.loadPost('portable-extensible-machine');
+            if (fallback && (fallback.metadata.hidden !== true || includeHidden)) {
+                if (!includeHidden) {
+                    this.visiblePostsCache = [fallback];
+                }
+                return [fallback];
             }
             return [];
         }
@@ -117,11 +199,7 @@ class PostRouter {
 
         const hash = window.location.hash.slice(1); // Remove the # symbol
         
-        // Close any open popups
-        const popupContainers = document.querySelectorAll('.popup-container');
-        popupContainers.forEach(container => {
-            container.style.display = 'none';
-        });
+        this.closePopups();
         
         if (!hash) {
             // Show main page
@@ -130,45 +208,18 @@ class PostRouter {
             // Check if we should skip animation (coming back from a post)
             const skipAnimation = document.body.classList.contains('no-animation');
             
-            // Make all text visible immediately when returning to CV
-            document.querySelectorAll('.diffuse-text').forEach(el => {
-                // Remove data-animated attribute so diffusion can work again
-                el.removeAttribute('data-animated');
-                
-                // If coming back from a post, make text visible right away
-                if (skipAnimation) {
-                    el.style.visibility = 'visible';
-                    
-                    // Add a class to skip animation
-                    el.classList.add('skip-diffuse');
-                }
-                
-                // Make existing text visible immediately
-                const spans = el.querySelectorAll('span');
-                if (spans.length > 0) {
-                    spans.forEach(span => {
-                        span.style.opacity = '1';
-                    });
-                }
-            });
-            
-            // Reset the flag
+            const postsSection = document.getElementById('posts-container');
+            if (postsSection) {
+                await this.renderPostsSection();
+            }
+
             document.body.classList.remove('no-animation');
-            
-            // Reinitialize diffusion effects
-            document.dispatchEvent(new Event('DOMContentLoaded'));
-            
-            // Add posts list to the main page after diffusion effects have been applied
-            setTimeout(() => {
-                const postsSection = document.getElementById('posts-container');
-                if (postsSection) {
-                    this.loadAllPosts().then(posts => {
-                        const postsHTML = this.renderPostsListHTML(posts);
-                        postsSection.innerHTML = postsHTML;
-                        document.dispatchEvent(new Event('DOMContentLoaded'));
-                    });
-                }
-            }, 100);
+
+            this.dispatchContentUpdated({
+                components: this.getComponentsForSection(this.mainContent),
+                options: { skipAnimation, source: 'hash-reset' }
+            });
+
             return;
         }
 
@@ -249,13 +300,17 @@ class PostRouter {
             imagesHTML = `
                 <div class="post-image-container">
                     ${post.metadata.images.map((imgName, index) => `
-                        <img
-                            src="public/${imgName}.png"
-                            alt="${imgName.replace(/_/g, ' ')}"
-                            class="post-image"
-                            loading="lazy"
-                            style="z-index: ${post.metadata.images.length - index};"
-                        >`
+                        <picture class="post-image-frame" style="z-index: ${post.metadata.images.length - index};">
+                            <source srcset="public/${imgName}.avif" type="image/avif">
+                            <source srcset="public/${imgName}.webp" type="image/webp">
+                            <img
+                                src="public/${imgName}.png"
+                                alt="${imgName.replace(/_/g, ' ')}"
+                                class="post-image"
+                                loading="lazy"
+                                decoding="async"
+                            >
+                        </picture>`
                     ).join('')}
                 </div>
             `;
@@ -283,16 +338,21 @@ class PostRouter {
         `;
         
         this.mainContent.innerHTML = postHTML;
-        
-        // Reset data-animated attributes for diffusion to work
-        document.querySelectorAll('.diffuse-text').forEach(el => {
-            el.removeAttribute('data-animated');
+
+        const components = this.getComponentsForSection(this.mainContent);
+
+        this.dispatchContentUpdated({
+            components,
+            options: {
+                skipAnimation: false,
+                source: 'post-view',
+                postId: post.id
+            }
         });
-        
-        // Trigger diffusion effect
-        setTimeout(() => {
-            document.dispatchEvent(new Event('DOMContentLoaded'));
-        }, 10);
+
+        if (components.includes('prism')) {
+            this.queuePrismHighlight(this.mainContent);
+        }
     }
 
     render404() {
@@ -313,15 +373,10 @@ class PostRouter {
         
         this.mainContent.innerHTML = notFoundHTML;
         
-        // Reset data-animated attributes for diffusion to work
-        document.querySelectorAll('.diffuse-text').forEach(el => {
-            el.removeAttribute('data-animated');
+        this.dispatchContentUpdated({
+            components: this.getComponentsForSection(this.mainContent),
+            options: { skipAnimation: false, source: 'not-found' }
         });
-        
-        // Trigger diffusion effect
-        setTimeout(() => {
-            document.dispatchEvent(new Event('DOMContentLoaded'));
-        }, 10);
     }
     
     renderPostsListHTML(posts) {
@@ -352,9 +407,67 @@ class PostRouter {
         return postsHTML;
     }
     
-    async renderPostsList() {
-        const posts = await this.loadAllPosts();
-        return this.renderPostsListHTML(posts);
+    async renderPostsList(includeHidden = false) {
+        const { html } = await this.ensurePostsList(includeHidden);
+        return html;
+    }
+
+    queuePrismHighlight(root) {
+        const schedule = () => this.highlightCodeBlocks(root);
+
+        if (typeof window.requestIdleCallback === 'function') {
+            window.requestIdleCallback(schedule, { timeout: 500 });
+        } else {
+            setTimeout(schedule, 0);
+        }
+    }
+
+    async highlightCodeBlocks(root) {
+        if (!root) return;
+
+        const codeBlocks = Array.from(root.querySelectorAll('pre code[class*="language-"]'));
+        if (!codeBlocks.length) return;
+
+        const languages = codeBlocks
+            .map(block => {
+                const match = block.className.match(/language-([^\s]+)/);
+                return match ? match[1] : null;
+            })
+            .filter(Boolean);
+
+        await this.ensurePrism(languages);
+
+        if (window.Prism && typeof window.Prism.highlightAllUnder === 'function') {
+            window.Prism.highlightAllUnder(root);
+        }
+    }
+
+    async ensurePrism(languages = []) {
+        const normalised = languages
+            .map(language => (language || '').toLowerCase())
+            .filter(Boolean);
+
+        const required = normalised.filter(lang => !this.prismLanguagesLoaded.has(lang));
+
+        if (!required.length && window.Prism) {
+            return window.Prism;
+        }
+
+        const loader = window.ensurePrism || window.__ensurePrism;
+        const prism = typeof loader === 'function'
+            ? await loader(required)
+            : window.Prism;
+
+        if (!prism) {
+            return null;
+        }
+
+        const loadedLanguages = (required.length ? required : normalised)
+            .filter(lang => prism.languages && prism.languages[lang]);
+
+        loadedLanguages.forEach(lang => this.prismLanguagesLoaded.add(lang));
+
+        return prism;
     }
 }
 
