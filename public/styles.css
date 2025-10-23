@@ -228,10 +228,63 @@ ul ul li::before {
 
 .diffuse-text {
     visibility: hidden;
+    --diffuse-font: inherit;
+}
+
+.diffuse-text[data-diffuse-prepared="true"],
+.diffuse-text.diffuse-instant,
+.diffuse-text.diffuse-active,
+.diffuse-text.diffuse-complete {
+    visibility: visible;
+}
+
+.diffuse-char {
+    display: inline-block;
+    opacity: 0;
+    font-family: var(--diffuse-font, inherit);
+    transform: translateY(0.35em);
+    animation-name: diffuse-fade;
+    animation-duration: 280ms;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease;
+    animation-play-state: paused;
+    will-change: opacity, transform;
+}
+
+.diffuse-word {
+    display: inline-flex;
+    flex-wrap: nowrap;
+    align-items: baseline;
+}
+
+.diffuse-space {
+    width: 0.38em;
+}
+
+.diffuse-text.diffuse-active .diffuse-char {
+    animation-play-state: running;
+}
+
+.diffuse-text.diffuse-instant .diffuse-char,
+.diffuse-text.diffuse-complete .diffuse-char {
+    opacity: 1;
+    transform: none;
+    animation: none;
 }
 
 .htmx-settling .diffuse-text {
     visibility: visible;
+}
+
+@keyframes diffuse-fade {
+    from {
+        opacity: 0;
+        transform: translateY(0.35em);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
 
 .refresh-section {
@@ -665,7 +718,7 @@ body.no-animation .diffuse-text {
 }
 
 /* This ensures spans inside diffuse-text are visible when returning from posts */
-body.no-animation .diffuse-text span {
+body.no-animation .diffuse-text .diffuse-char {
     opacity: 1 !important;
 }
 
@@ -703,12 +756,20 @@ body.no-animation .diffuse-text span {
     z-index: 5;
 }
 
-.post-image {
+.post-image-frame {
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 120%;
+    display: block;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.post-image {
+    width: 100%;
+    height: 100%;
     object-fit: cover;
     border-radius: 10px;
     box-shadow: 0 2px 20px 2px rgba(0, 0, 0, 0.5);
@@ -747,4 +808,4 @@ body.no-animation .diffuse-text span {
 .post-image-container:has(.post-image:nth-child(1):nth-last-child(1)) .post-image {
     /* Apply a slight default tilt for single images */
     transform: rotate(-2deg);
-} 
+}

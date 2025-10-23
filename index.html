@@ -5,15 +5,12 @@
     <link rel="icon" type="image/png" href="https://url.roiban.xyz/roiban-ico">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Roiban - CV</title>
+    <link rel="preload" href="https://framerusercontent.com/assets/dNsitlSx7Q3VSHfkIjuXiNUukmU.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="https://framerusercontent.com/assets/rfBLtzwF2GUVAwBv7sC0qh8GFs.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="stylesheet" href="./public/styles.css">
     <link rel="stylesheet" href="./public/posts.css">
     <script src="https://unpkg.com/htmx.org@1.9.10" defer></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js" defer></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-python.min.js" defer></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-javascript.min.js" defer></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-c.min.js" defer></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-cpp.min.js" defer></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-java.min.js" defer></script>
+    <script src="./src/prism-loader.js" defer></script>
     <script src="./src/diffusion.js" defer></script>
     <script src="./src/popup.js" defer></script>
     <script src="./src/posts.js" defer></script>
@@ -24,7 +21,7 @@
             hx-get="javascript:void(0)" 
             hx-trigger="load" 
             hx-swap="none" 
-            hx-on::after-request="document.dispatchEvent(new Event('DOMContentLoaded'))">
+            hx-on::after-request="document.dispatchEvent(new CustomEvent('app:content-updated', { detail: { components: ['diffusion','popups'], options: { source: 'htmx-after-request' }}}))">
         </div>
         
         <header>
@@ -158,45 +155,9 @@
     </div>
 
     <script>
-        // Create the router once when the page loads
-        let router;
-        
-        // Initialize the router after the DOM is fully loaded
-        window.addEventListener('load', () => {
-            router = new PostRouter();
-            console.log("Router initialized");
-            
-            // Force load posts immediately
-            const postsSection = document.getElementById('posts-container');
-            if (postsSection) {
-                router.loadAllPosts().then(posts => {
-                    console.log("Directly loading posts:", posts);
-                    const postsHTML = router.renderPostsListHTML(posts);
-                    postsSection.innerHTML = postsHTML;
-                    document.dispatchEvent(new Event('DOMContentLoaded'));
-                });
-            }
-            
-            // Re-initialize popups whenever the page content changes
-            document.addEventListener('DOMContentLoaded', () => {
-                // Wait for diffusion animation to complete
-                setTimeout(() => {
-                    if (typeof initPopups === 'function') {
-                        initPopups();
-                    }
-                }, 500);
-            });
-            
-            // Add a callback to the hash change event to handle popups
-            window.addEventListener('hashchange', () => {
-                // Wait for the new page to render
-                setTimeout(() => {
-                    if (typeof initPopups === 'function') {
-                        initPopups();
-                    }
-                }, 500);
-            });
+        window.addEventListener('DOMContentLoaded', () => {
+            window.router = new PostRouter();
         });
     </script>
 </body>
-</html> 
+</html>
